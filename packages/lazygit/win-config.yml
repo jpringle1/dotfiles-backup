@@ -16,5 +16,5 @@ keybinding:
 
 git:
   pagers:
-    - externalDiffCommand: "C:/src/config/packages/lazygit/lazygit-pager-sbs.ps1"
-    - externalDiffCommand: "C:/src/config/packages/lazygit/lazygit-pager-uni.ps1"
+    - externalDiffCommand: "C:/src/dotfiles/packages/lazygit/lazygit-pager-sbs.ps1"
+    - externalDiffCommand: "C:/src/dotfiles/packages/lazygit/lazygit-pager-uni.ps1"
