@@ -1,0 +1,11 @@
+<application>
+  <component name="IgnoredPluginSuggestions">
+    <option name="pluginIds">
+      <list>
+        <option value="com.intellij.resharper.azure" />
+        <option value="net.reqnroll" />
+        <option value="fr.socolin.awesomeLogViewer" />
+      </list>
+    </option>
+  </component>
+</application>

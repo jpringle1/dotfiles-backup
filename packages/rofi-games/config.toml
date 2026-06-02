@@ -1,0 +1,11 @@
+box_art_dir = "/home/joep/.config/rofi-games/boxart"
+
+[[entries]]
+title = "Legend of Zelda: Breath of the Wild"
+launch_command = "env LUTRIS_SKIP_INIT=1 lutris lutris:rungameid/1"
+path_box_art = "botw.png"
+path_game_dir = "/"
+
+[[entries]]
+title = "tModLoader"
+path_box_art = "terraria.jpg"

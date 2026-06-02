@@ -1,0 +1,16 @@
+{
+  "viewGenaiChatSidebarKb": {},
+  "key_closeWindow": {},
+  "key_toggleReaderMode": {
+    "keycode": "VK_F4"
+  },
+  "bookmarkAllTabsKb": {},
+  "addBookmarkAsKb": {
+    "modifiers": "accel,shift",
+    "key": "D"
+  },
+  "key_savePage": {
+    "modifiers": "accel,shift",
+    "key": "S"
+  }
+}

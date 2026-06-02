@@ -1,0 +1,8 @@
+test -z "$PROFILEREAD" && . /etc/profile || true
+
+export EDITOR=/usr/bin/nvim
+
+## ssh setup
+export SSH_AUTH_SOCK="$XDG_RUNTIME_DIR/ssh-agent.socket"
+
+systemctl --user enable --now ssh-agent.service

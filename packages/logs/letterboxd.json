@@ -1,0 +1,337 @@
+{
+  "account": {},
+  "bookmarks": {
+    "155": {
+      "type": "movie",
+      "title": "The Dark Knight",
+      "year": 2008,
+      "poster": "https://image.tmdb.org/t/p/original/enNubozHn9pXi0ycTVYUWfpHZm.jpg",
+      "updatedAt": 1750522360031
+    },
+    "1408": {
+      "type": "show",
+      "title": "House",
+      "year": 2004,
+      "poster": "https://image.tmdb.org/t/p/w342/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg",
+      "updatedAt": 1751127384427
+    },
+    "37680": {
+      "type": "show",
+      "title": "Suits",
+      "year": 2011,
+      "poster": "https://image.tmdb.org/t/p/w342//vQiryp6LioFxQThywxbC6TuoDjy.jpg",
+      "updatedAt": 1751127298991
+    },
+    "60625": {
+      "type": "show",
+      "title": "Rick and Morty",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/WGRQ8FpjkDTzivQJ43t94bOuY0.jpg",
+      "updatedAt": 1751127348251
+    },
+    "63926": {
+      "type": "show",
+      "title": "One-Punch Man",
+      "year": 2015,
+      "poster": "https://image.tmdb.org/t/p/w342/jbYJuxfZMpYDalkiOnBcCv9TaL.jpg",
+      "updatedAt": 1751127545917
+    },
+    "68726": {
+      "type": "movie",
+      "title": "Pacific Rim",
+      "year": 2013,
+      "poster": "https://image.tmdb.org/t/p/w342/mmznhaQDwlHWpUwKuNxtQiubbmM.jpg",
+      "updatedAt": 1750523824798
+    },
+    "73107": {
+      "type": "show",
+      "title": "Barry",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342//j1XpwD11f0BAEI7pX6UdMhUVX2F.jpg",
+      "updatedAt": 1751127293572
+    },
+    "81358": {
+      "type": "show",
+      "title": "Mr Inbetween",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342/cXviefgSi6KNhbbEjwOHqgpNQ0o.jpg",
+      "updatedAt": 1751127633613
+    },
+    "82856": {
+      "type": "show",
+      "title": "The Mandalorian",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/eU1i6eHXlzMOlEq0ku1Rzq7Y4wA.jpg",
+      "updatedAt": 1751127528087
+    },
+    "83867": {
+      "type": "show",
+      "title": "Andor",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342/khZqmwHQicTYoS7Flreb9EddFZC.jpg",
+      "updatedAt": 1751127650999
+    },
+    "84958": {
+      "type": "show",
+      "title": "Loki",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w342/oJdVHUYrjdS2IqiNztVIP4GPB1p.jpg",
+      "updatedAt": 1751127737486
+    },
+    "87108": {
+      "type": "show",
+      "title": "Chernobyl",
+      "year": 2019,
+      "poster": "https://image.tmdb.org/t/p/w342/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg",
+      "updatedAt": 1751127345977
+    },
+    "87739": {
+      "type": "show",
+      "title": "The Queen's Gambit",
+      "year": 2020,
+      "poster": "https://image.tmdb.org/t/p/w342/zU0htwkhNvBQdVSIKB9s6hgVeFK.jpg",
+      "updatedAt": 1751127452263
+    },
+    "95557": {
+      "type": "show",
+      "title": "INVINCIBLE",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w342/jBn4LWlgdsf6xIUYhYBwpctBVsj.jpg",
+      "updatedAt": 1751127368063
+    },
+    "118340": {
+      "type": "movie",
+      "title": "Guardians of the Galaxy",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/original/uLtVbjvS1O7gXL8lUOwsFOH4man.jpg",
+      "updatedAt": 1750522657617
+    },
+    "126506": {
+      "type": "show",
+      "title": "Smiling Friends",
+      "year": 2020,
+      "poster": "https://image.tmdb.org/t/p/w342/l1Qdw9DsJaomE8BXeVfkF6h1qaa.jpg",
+      "updatedAt": 1751127548232
+    },
+    "202555": {
+      "type": "show",
+      "title": "Daredevil: Born Again",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342//9lLuhV703HGCbnz6FxnqCwIwzAZ.jpg",
+      "updatedAt": 1751127828497
+    },
+    "263115": {
+      "type": "movie",
+      "title": "Logan",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w342/fnbjcRDYn6YviCcePDnGdyAkYsB.jpg",
+      "updatedAt": 1750522755426
+    },
+    "370172": {
+      "type": "movie",
+      "title": "No Time to Die",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w342//iUgygt3fscRoKWCV1d0C7FbM9TP.jpg",
+      "updatedAt": 1751822701707
+    },
+    "414906": {
+      "type": "movie",
+      "title": "The Batman",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/original/b0PlSFdDwbyK0cf5RxwDpaOJQvQ.jpg",
+      "updatedAt": 1750522086751
+    },
+    "447365": {
+      "type": "movie",
+      "title": "Guardians of the Galaxy Vol. 3",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",
+      "updatedAt": 1750523679922
+    },
+    "533535": {
+      "type": "movie",
+      "title": "Deadpool & Wolverine",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w342/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
+      "updatedAt": 1750523655826
+    },
+    "629542": {
+      "type": "movie",
+      "title": "The Bad Guys",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342//6fcFmdVLCCbf1gFt8HlC6BRj8pt.jpg",
+      "updatedAt": 1751749025725
+    }
+  },
+  "progress": {
+    "10764": {
+      "type": "movie",
+      "episodes": {},
+      "seasons": {},
+      "updatedAt": 1751812186579,
+      "title": "Quantum of Solace",
+      "year": 2008,
+      "poster": "https://image.tmdb.org/t/p/w342//e3DXXLJHGqMx9yYpXsql1XNljmM.jpg",
+      "progress": {
+        "duration": 6372.948253,
+        "watched": 6106.245411
+      }
+    },
+    "36557": {
+      "type": "movie",
+      "episodes": {},
+      "seasons": {},
+      "updatedAt": 1751798892901,
+      "title": "Casino Royale",
+      "year": 2006,
+      "poster": "https://image.tmdb.org/t/p/w342//lMrxYKKhd4lqRzwUHAy5gcx9PSO.jpg",
+      "progress": {
+        "duration": 8673.349501,
+        "watched": 8455.496087
+      }
+    },
+    "37724": {
+      "type": "movie",
+      "episodes": {},
+      "seasons": {},
+      "updatedAt": 1751822537876,
+      "title": "Skyfall",
+      "year": 2012,
+      "poster": "https://image.tmdb.org/t/p/w342//d0IVecFQvsGdSbnMAHqiYsNYaJT.jpg",
+      "progress": {
+        "duration": 8590.337165,
+        "watched": 8276.013215
+      }
+    },
+    "84958": {
+      "type": "show",
+      "episodes": {
+        "4447686": {
+          "id": "4447686",
+          "number": 1,
+          "title": "Ouroboros",
+          "seasonId": "341180",
+          "updatedAt": 1751127871548,
+          "progress": {
+            "duration": 2715.733333,
+            "watched": 2563.698024
+          }
+        },
+        "4447779": {
+          "id": "4447779",
+          "number": 2,
+          "title": "Breaking Brad",
+          "seasonId": "341180",
+          "updatedAt": 1751130146655,
+          "progress": {
+            "duration": 2958.875,
+            "watched": 20.875207
+          }
+        }
+      },
+      "seasons": {
+        "341180": {
+          "id": "341180",
+          "number": 2,
+          "title": "Season 2"
+        }
+      },
+      "updatedAt": 1751822620811,
+      "title": "Loki",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w342//oJdVHUYrjdS2IqiNztVIP4GPB1p.jpg"
+    },
+    "137113": {
+      "type": "movie",
+      "episodes": {},
+      "seasons": {},
+      "updatedAt": 1750021927257,
+      "title": "Edge of Tomorrow",
+      "year": 2014,
+      "poster": "https://image.tmdb.org/t/p/w342//nBM9MMa2WCwvMG4IJ3eiGUdbPe6.jpg",
+      "progress": {
+        "duration": 6809.529841,
+        "watched": 6351.255561
+      }
+    },
+    "206647": {
+      "type": "movie",
+      "episodes": {},
+      "seasons": {},
+      "updatedAt": 1751833414136,
+      "title": "Spectre",
+      "year": 2015,
+      "poster": "https://image.tmdb.org/t/p/w342//zj8ongFhtWNsVlfjOGo8pSr7PQg.jpg",
+      "progress": {
+        "duration": 8886.926643,
+        "watched": 8480.301624
+      }
+    },
+    "353081": {
+      "type": "movie",
+      "episodes": {},
+      "seasons": {},
+      "updatedAt": 1751139901569,
+      "title": "Mission: Impossible - Fallout",
+      "year": 2018,
+      "poster": "https://image.tmdb.org/t/p/w342//AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg",
+      "progress": {
+        "duration": 8845.014625,
+        "watched": 8394.538514
+      }
+    },
+    "370172": {
+      "type": "movie",
+      "episodes": {},
+      "seasons": {},
+      "updatedAt": 1751833494841,
+      "title": "No Time to Die",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w342//iUgygt3fscRoKWCV1d0C7FbM9TP.jpg",
+      "progress": {
+        "duration": 9803.859591,
+        "watched": 2.738684
+      }
+    },
+    "575264": {
+      "type": "movie",
+      "episodes": {},
+      "seasons": {},
+      "updatedAt": 1751152034203,
+      "title": "Mission: Impossible - Dead Reckoning Part One",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w342//NNxYkU70HPurnNCSiCjYAmacwm.jpg",
+      "progress": {
+        "duration": 10003.910577,
+        "watched": 9338.548014
+      }
+    },
+    "718930": {
+      "type": "movie",
+      "episodes": {},
+      "seasons": {},
+      "updatedAt": 1750179754280,
+      "title": "Bullet Train",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w342//zTgMFlHG5D1EqdQDhfOTAsyzGoX.jpg",
+      "progress": {
+        "duration": 7607.367981,
+        "watched": 237.043451
+      }
+    },
+    "1233413": {
+      "type": "movie",
+      "episodes": {},
+      "seasons": {},
+      "updatedAt": 1750522038827,
+      "title": "Sinners",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w342//yqsCU5XOP2mkbFamzAqbqntmfav.jpg",
+      "progress": {
+        "duration": 8252.958333,
+        "watched": 8247.733341
+      }
+    }
+  },
+  "exportDate": "2025-07-15T17:37:24.492Z"
+}

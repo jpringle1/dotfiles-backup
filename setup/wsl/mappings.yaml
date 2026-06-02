@@ -1,0 +1,10 @@
+bat: ''
+bash:
+  wsl-bashrc: '~/.bashrc'
+git:
+  win-gitconfig: '~/.gitconfig'
+lazygit:
+  lin-config.yml: '~/.config/lazygit/config.yml'
+lsd: ''
+nvim: ''
+yazi: ''

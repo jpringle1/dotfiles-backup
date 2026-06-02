@@ -1,0 +1,50 @@
+# .bashrc
+
+# Source global definitions
+if [ -f /etc/bashrc ]; then
+    . /etc/bashrc
+fi
+
+# User specific environment
+if ! [[ "$PATH" =~ "$HOME/.local/bin:$HOME/bin:" ]]; then
+    PATH="$HOME/.local/bin:$HOME/bin:$PATH"
+fi
+export PATH
+
+export PATH=/home/joep/.cargo/bin:$PATH
+
+# Uncomment the following line if you don't like systemctl's auto-paging feature:
+# export SYSTEMD_PAGER=
+
+# User specific aliases and functions
+if [ -d ~/.bashrc.d ]; then
+    for rc in ~/.bashrc.d/*; do
+        if [ -f "$rc" ]; then
+            . "$rc"
+        fi
+    done
+fi
+unset rc
+
+# Sort ls output using ls, pipe to lsd for formatting, then alias function to ls
+# function lsImproved() {
+# 	ls -1X --sort=extension --group-directories-first --color=never "$@" \
+# 	| xargs -d '\n' lsd -Ud
+# }
+#
+# alias ls=lsImproved
+alias ls='lsd -1'
+alias cat=bat
+alias watch-temps='watch -n 1 sensors'
+
+function untar() {
+	archive=$1
+	tar -xvf $archive
+}
+
+function steal_dir() {
+	directory=$1
+	sudo chown -R "$USER":"$USER" "$directory"
+}
+
+eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv bash)"

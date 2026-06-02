@@ -1,0 +1,14 @@
+bat: '~/appdata/local/bat'
+git:
+  win-gitconfig: '~/.gitconfig'
+lazygit: 
+  win-config.yml: '~/appdata/local/lazygit/config.yml'
+  win-state.yml: '~/appdata/local/lazygit/state.yml'
+lsd: '~/appdata/roaming/lsd'
+nvim: '~/appdata/local/nvim'
+powertoys: '~/appdata/local/microsoft/PowerToys'
+# vscode: ''
+windows-terminal:
+  terminal.json: '~/appdata/local/Packages/Microsoft.WindowsTerminal_8wekyb3d8bbwe/LocalState/settings.json'
+yazi: '~/appdata/roaming/yazi'
+

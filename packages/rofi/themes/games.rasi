@@ -1,0 +1,7 @@
+@import "games-default"
+
+textbox-prompt {
+	str: ""
+	font: "Inconsolata Nerd Font Mono 24"
+	padding: 0px 5px 0px 5px;
+}

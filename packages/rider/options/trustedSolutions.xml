@@ -1,0 +1,37 @@
+<application>
+  <component name="TrustedSolutionStore">
+    <option name="trustedLocations">
+      <set>
+        <option value="C:\repos\jet2\ExternalSMSOptInUploader" />
+        <option value="C:\repos\jet2\ExternalSMSOptInUploader\apps\UploadCustomerPreferencesLambda\.idea\.idea.UploadCustomerPreferencesLambda" />
+        <option value="C:\repos\jet2\ExternalSMSOptInUploader\apps\lambda\.idea\.idea.lambda" />
+        <option value="C:\repos\jet2\ExternalSMSOptInUploader\apps\lambda\lambda\.idea\.idea.lambda" />
+        <option value="C:\repos\jet2\ExternalSMSOptInUploader\apps\sms-opt-ins-lambda\.idea\.idea.SmsOptInsLambda" />
+        <option value="C:\repos\jet2\ExternalSMSOptInUploader\apps\sms-opt-ins-lambda\.idea\.idea.sms-opt-ins-lambda" />
+        <option value="C:\repos\jet2\ExternalSMSOptInUploader\apps\sms-opt-ins-lambda\LambdaRunner\.idea\.idea.LambdaRunner.dir" />
+        <option value="C:\repos\jet2\ExternalSMSOptInUploader\infrastructure\terraform\scripts\.idea\.idea.scripts.dir" />
+        <option value="C:\repos\jet2\Jet2.CustomerPreference\src\.idea\.idea.Jet2.CustomerPreference" />
+        <option value="C:\repos\personal\AwsEducation\.idea\.idea.AwsEducation" />
+        <option value="C:\repos\personal\AzdoCli\.idea\.idea.AzureConsoleApp" />
+        <option value="C:\repos\work\Account.API\.idea\.idea.Jet2.Account" />
+        <option value="C:\repos\work\Caching\.idea\.idea.Jet2.Holidays.Caching" />
+        <option value="C:\repos\work\Diagnostics\.idea\.idea.Jet2.Holidays.Diagnostics" />
+        <option value="C:\repos\work\DigEx.Edge.Holidays.Content.Api\.idea\.idea.DigEx.Edge.Holidays.Content" />
+        <option value="C:\repos\work\DigEx.Edge.Holidays.Search.Api\.idea\.idea.DigEx.Edge.Holidays.Search.Api" />
+        <option value="C:\repos\work\Edge.Mobile\.idea\.idea.Jet2.Edge.Mobile" />
+        <option value="C:\repos\work\Holidays.PackageCharges.Api\.idea\.idea.Holidays.PackageCharges" />
+        <option value="C:\repos\work\Jet2.Reservations\src\.idea\.idea.ReservationsSystem" />
+        <option value="C:\repos\work\Jet2Holidays\.idea\.idea.Jet2Holidays" />
+        <option value="C:\repos\work\LS1.Res.CallCentre\.idea\.idea.LS1.Res.CallCentre" />
+        <option value="C:\repos\work\MyJet2.Edge\.idea\.idea.Jet2.MyJet2.Edge" />
+        <option value="C:\repos\work\Perks.Integration.API\.idea\.idea.Jet2.Perks.Integration" />
+        <option value="C:\repos\work\Quote\.idea\.idea.Jet2.Holidays.Quote" />
+        <option value="C:\src\DigEx.Edge.Holidays.Search.Api\.idea\.idea.DigEx.Edge.Holidays.Search.Api" />
+        <option value="C:\src\Jet2Holidays\.idea\.idea.Jet2Holidays" />
+        <option value="C:\src\repos-work\DigEx.Edge.Holidays.Content.Api\.idea\.idea.DigEx.Edge.Holidays.Content" />
+        <option value="C:\src\repos-work\DigEx.Edge.Holidays.Search.Api\.idea\.idea.DigEx.Edge.Holidays.Search.Api" />
+        <option value="C:\src\repos-work\MyJet2.Edge\.idea\.idea.Jet2.MyJet2.Edge" />
+      </set>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,95 @@
+{
+  "policies": {
+  "SearchEngines": {
+      "Default": "DuckDuckGo",
+      "PreventInstalls": false,
+      "Add": [
+        {
+          "Name": "YouTube",
+          "URLTemplate": "https://www.youtube.com/results?search_query={searchTerms}",
+          "Method": "GET",
+          "IconURL": "https://www.youtube.com/favicon.ico",
+	  "SuggestURLTemplate": "https://duckduckgo.com/ac/?q={searchTerms}&type=list",
+          "Alias": "yt"
+        },
+        {
+          "Name": "Tidal",
+          "URLTemplate": "https://tidal.com/search?q={searchTerms}",
+          "Method": "GET",
+          "IconURL": "https://tidal.com/favicon.ico",
+	  "SuggestURLTemplate": "https://duckduckgo.com/ac/?q={searchTerms}&type=list",
+          "Alias": "tide"
+        },
+	{
+          "Name": "Spotify",
+          "URLTemplate": "https://open.spotify.com/search/{searchTerms}",
+          "Method": "GET",
+          "IconURL": "https://open.spotify.com/favicon.ico",
+          "Alias": "spot"
+        },
+        {
+          "Name": "StackOverflow",
+          "URLTemplate": "https://stackoverflow.com/search?q={searchTerms}",
+          "Method": "GET",
+          "IconURL": "https://stackoverflow.com/favicon.ico",
+          "Alias": "stack"
+        },
+        {
+          "Name": "Ebay",
+          "URLTemplate": "https://www.ebay.co.uk/sch/i.html?kw={searchTerms}",
+          "Method": "GET",
+          "IconURL": "https://ebay.com/favicon.ico",
+          "Alias": "ebay"
+        },
+        {
+          "Name": "Amazon",
+          "URLTemplate": "https://www.amazon.co.uk/s?k={searchTerms}",
+          "Method": "GET",
+          "IconURL": "https://amazon.co.uk/favicon.ico",
+          "Alias": "amaz"
+        }
+      ]
+    },
+    "ExtensionSettings": {
+      "{5630de1f-49cb-41ef-934d-2343026b25a5}": {
+        "installation_mode": "force_installed",
+        "install_url": "https://github.com/catppuccin/firefox/releases/download/old/catppuccin_frappe_mauve.xpi"
+      },
+      "vimium-c@gdh1995.cn": {
+        "installation_mode": "force_installed",
+        "install_url": "https://addons.mozilla.org/firefox/downloads/latest/vimium-c/latest.xpi",
+        "locked": true
+      },
+      "78272b6fa58f4a1abaac99321d503a20@proton.me": {
+        "installation_mode": "force_installed",
+        "install_url": "https://addons.mozilla.org/firefox/downloads/latest/proton-pass/latest.xpi",
+        "install_source": ["remote"],
+        "locked": true
+      },
+      "uBlock0@raymondhill.net": {
+        "installation_mode": "force_installed",
+        "install_url": "https://addons.mozilla.org/firefox/downloads/latest/ublock-origin/latest.xpi",
+        "install_source": ["remote"],
+        "locked": true
+      },
+      "myallychou@gmail.com": {
+        "installation_mode": "force_installed",
+        "install_url": "https://addons.mozilla.org/firefox/downloads/latest/youtube-recommended-videos/latest.xpi",
+        "install_source": ["remote"],
+        "locked": true
+      },
+      "enhancerforyoutube@maximerf.addons.mozilla.org": {
+        "installation_mode": "force_installed",
+        "install_url": "https://addons.mozilla.org/firefox/downloads/latest/enhancer-for-youtube/latest.xpi",
+        "install_source": ["remote"],
+        "locked": true
+      },
+      "addon@darkreader.org": {
+        "installation_mode": "force_installed",
+        "install_url": "https://addons.mozilla.org/firefox/downloads/latest/darkreader/latest.xpi",
+        "install_source": ["remote"],
+        "locked": true
+      }
+    }
+  }
+}

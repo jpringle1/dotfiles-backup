@@ -1,0 +1,408 @@
+{
+  "Records": {
+    "Microsoft Teams : Packaged application": {
+      "SelectedCount": 7,
+      "LastSelected": "2026-04-20T08:00:28.8204049Z",
+      "Title": "Microsoft Teams",
+      "Search": "team",
+      "Score": 0,
+      "SubTitle": "Packaged application",
+      "PluginID": "791FC278BA414111B8D1886DFE447410"
+    },
+    "Obsidian : Application": {
+      "SelectedCount": 56,
+      "LastSelected": "2026-04-15T08:51:23.0380545Z",
+      "IconPath": "C:\\Users\\joe.pringle\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Obsidian.lnk",
+      "Title": "Obsidian",
+      "Search": "obs",
+      "Score": 0,
+      "SubTitle": "Application",
+      "PluginID": "791FC278BA414111B8D1886DFE447410"
+    },
+    "Terminal : Packaged application": {
+      "SelectedCount": 1,
+      "LastSelected": "2025-10-14T13:48:27.4484761Z",
+      "Title": "Terminal",
+      "Search": "term",
+      "Score": 0,
+      "SubTitle": "Packaged application",
+      "PluginID": "791FC278BA414111B8D1886DFE447410"
+    },
+    "Outlook (PWA) : Packaged application": {
+      "SelectedCount": 64,
+      "LastSelected": "2026-04-20T07:34:38.4956304Z",
+      "Title": "Outlook (PWA)",
+      "Search": "outl",
+      "Score": 0,
+      "SubTitle": "Packaged application",
+      "PluginID": "791FC278BA414111B8D1886DFE447410"
+    },
+    "MyJet2HR.url : Search: C:\\Users\\Public\\Desktop\\MyJet2HR.url": {
+      "SelectedCount": 1,
+      "LastSelected": "2026-01-19T09:11:22.7384994Z",
+      "IconPath": "C:\\Users\\Public\\Desktop\\MyJet2HR.url",
+      "Title": "MyJet2HR.url",
+      "Search": "myjet2",
+      "Score": 0,
+      "SubTitle": "Search: C:\\Users\\Public\\Desktop\\MyJet2HR.url",
+      "PluginID": "2140FC9819AD43A3A616E2735815C27C"
+    },
+    "SuccessFactors : Packaged application": {
+      "SelectedCount": 8,
+      "LastSelected": "2026-04-10T10:05:01.5544092Z",
+      "Title": "SuccessFactors",
+      "Search": "succ",
+      "Score": 0,
+      "SubTitle": "Packaged application",
+      "PluginID": "791FC278BA414111B8D1886DFE447410"
+    },
+    "Proton Pass Web App : Application": {
+      "SelectedCount": 2,
+      "LastSelected": "2026-02-13T12:10:39.4536764Z",
+      "IconPath": "C:\\Users\\joe.pringle\\OneDrive - Jet2 PLC\\Desktop\\Proton Pass Web App.lnk",
+      "Title": "Proton Pass Web App",
+      "Search": "pass",
+      "Score": 0,
+      "SubTitle": "Application",
+      "PluginID": "791FC278BA414111B8D1886DFE447410"
+    },
+    "Calendar : Packaged application": {
+      "SelectedCount": 1,
+      "LastSelected": "2026-01-19T09:38:08.753765Z",
+      "Title": "Calendar",
+      "Search": "calen",
+      "Score": 0,
+      "SubTitle": "Packaged application",
+      "PluginID": "791FC278BA414111B8D1886DFE447410"
+    },
+    "Proton Calendar : Packaged application": {
+      "SelectedCount": 21,
+      "LastSelected": "2026-04-15T09:13:50.0699452Z",
+      "Title": "Proton Calendar",
+      "Search": "cal",
+      "Score": 0,
+      "SubTitle": "Packaged application",
+      "PluginID": "791FC278BA414111B8D1886DFE447410"
+    },
+    "Azure DevOps : Packaged application": {
+      "SelectedCount": 174,
+      "LastSelected": "2026-04-20T08:12:03.799831Z",
+      "Title": "Azure DevOps",
+      "Search": "devop",
+      "Score": 0,
+      "SubTitle": "Packaged application",
+      "PluginID": "791FC278BA414111B8D1886DFE447410"
+    },
+    "ChatGPT : Packaged application": {
+      "SelectedCount": 108,
+      "LastSelected": "2026-04-20T09:21:26.3396374Z",
+      "Title": "ChatGPT",
+      "Search": "chat",
+      "Score": 0,
+      "SubTitle": "Packaged application",
+      "PluginID": "791FC278BA414111B8D1886DFE447410"
+    },
+    "Calendar   Teams : Packaged application": {
+      "SelectedCount": 103,
+      "LastSelected": "2026-04-20T08:47:03.3214174Z",
+      "Title": "Calendar   Teams",
+      "Search": "tea",
+      "Score": 0,
+      "SubTitle": "Packaged application",
+      "PluginID": "791FC278BA414111B8D1886DFE447410"
+    },
+    "JetBrains Rider 2025.3.0.3 : Application": {
+      "SelectedCount": 59,
+      "LastSelected": "2026-04-14T07:24:21.1443501Z",
+      "IconPath": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\JetBrains\\JetBrains Rider 2025.3.0.3.lnk",
+      "Title": "JetBrains Rider 2025.3.0.3",
+      "Search": "rid",
+      "Score": 0,
+      "SubTitle": "Application",
+      "PluginID": "791FC278BA414111B8D1886DFE447410"
+    },
+    "Shutdown : Shutdown computer": {
+      "SelectedCount": 53,
+      "LastSelected": "2026-04-17T14:01:01.2349624Z",
+      "IconPath": "C:\\Users\\joe.pringle\\AppData\\Local\\PowerToys\\RunPlugins\\System\\Images\\shutdown.dark.png",
+      "Title": "Shutdown",
+      "Search": "sh",
+      "Score": 0,
+      "SubTitle": "Shutdown computer",
+      "PluginID": "CEA08895D2544B019B2E9C5009600DF4"
+    },
+    "Notepad : Application": {
+      "SelectedCount": 13,
+      "LastSelected": "2026-02-26T12:43:05.0546112Z",
+      "IconPath": "C:\\Users\\joe.pringle\\OneDrive - Jet2 PLC\\Desktop\\Notepad.lnk",
+      "Title": "Notepad",
+      "Search": "notepa",
+      "Score": 0,
+      "SubTitle": "Application",
+      "PluginID": "791FC278BA414111B8D1886DFE447410"
+    },
+    "YouTube : Packaged application": {
+      "SelectedCount": 140,
+      "LastSelected": "2026-04-20T07:36:19.27608Z",
+      "Title": "YouTube",
+      "Search": "you",
+      "Score": 0,
+      "SubTitle": "Packaged application",
+      "PluginID": "791FC278BA414111B8D1886DFE447410"
+    },
+    "Proton Pass Web App : Web application": {
+      "SelectedCount": 2,
+      "LastSelected": "2026-02-24T08:57:31.381289Z",
+      "IconPath": "C:\\Users\\joe.pringle\\OneDrive - Jet2 PLC\\Desktop\\Proton Pass Web App.lnk",
+      "Title": "Proton Pass Web App",
+      "Search": "maill",
+      "Score": 0,
+      "SubTitle": "Web application",
+      "PluginID": "791FC278BA414111B8D1886DFE447410"
+    },
+    "Proton Pass Web App : Packaged application": {
+      "SelectedCount": 7,
+      "LastSelected": "2026-04-15T11:26:17.3284163Z",
+      "Title": "Proton Pass Web App",
+      "Search": "pass",
+      "Score": 0,
+      "SubTitle": "Packaged application",
+      "PluginID": "791FC278BA414111B8D1886DFE447410"
+    },
+    "TIDAL : Packaged application": {
+      "SelectedCount": 51,
+      "LastSelected": "2026-04-20T07:34:41.2994661Z",
+      "Title": "TIDAL",
+      "Search": "tidal",
+      "Score": 0,
+      "SubTitle": "Packaged application",
+      "PluginID": "791FC278BA414111B8D1886DFE447410"
+    },
+    "Outlook (classic) : Application": {
+      "SelectedCount": 1,
+      "LastSelected": "2026-01-21T08:59:40.8710392Z",
+      "IconPath": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Outlook (classic).lnk",
+      "Title": "Outlook (classic)",
+      "Search": "outlook",
+      "Score": 0,
+      "SubTitle": "Application",
+      "PluginID": "791FC278BA414111B8D1886DFE447410"
+    },
+    "Proton Mail : Packaged application": {
+      "SelectedCount": 44,
+      "LastSelected": "2026-04-15T11:24:24.9395946Z",
+      "Title": "Proton Mail",
+      "Search": "mail",
+      "Score": 0,
+      "SubTitle": "Packaged application",
+      "PluginID": "791FC278BA414111B8D1886DFE447410"
+    },
+    "Terminal : Application": {
+      "SelectedCount": 14,
+      "LastSelected": "2026-04-13T08:42:40.9629775Z",
+      "IconPath": "C:\\Users\\joe.pringle\\OneDrive - Jet2 PLC\\Desktop\\Terminal.lnk",
+      "Title": "Terminal",
+      "Search": "term",
+      "Score": 0,
+      "SubTitle": "Application",
+      "PluginID": "791FC278BA414111B8D1886DFE447410"
+    },
+    "Confluence : Packaged application": {
+      "SelectedCount": 2,
+      "LastSelected": "2026-02-10T15:39:03.6255444Z",
+      "Title": "Confluence",
+      "Search": "conflu",
+      "Score": 0,
+      "SubTitle": "Packaged application",
+      "PluginID": "791FC278BA414111B8D1886DFE447410"
+    },
+    "Firefox : Application": {
+      "SelectedCount": 4,
+      "LastSelected": "2026-03-19T15:33:04.9722915Z",
+      "IconPath": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Firefox.lnk",
+      "Title": "Firefox",
+      "Search": "fire",
+      "Score": 0,
+      "SubTitle": "Application",
+      "PluginID": "791FC278BA414111B8D1886DFE447410"
+    },
+    "Docker Desktop : Application": {
+      "SelectedCount": 5,
+      "LastSelected": "2026-04-15T09:41:18.8286933Z",
+      "IconPath": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Docker Desktop.lnk",
+      "Title": "Docker Desktop",
+      "Search": "dock",
+      "Score": 0,
+      "SubTitle": "Application",
+      "PluginID": "791FC278BA414111B8D1886DFE447410"
+    },
+    "Visual Studio Code : Application": {
+      "SelectedCount": 57,
+      "LastSelected": "2026-04-20T08:24:22.0029216Z",
+      "IconPath": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Visual Studio Code\\Visual Studio Code.lnk",
+      "Title": "Visual Studio Code",
+      "Search": "co",
+      "Score": 0,
+      "SubTitle": "Application",
+      "PluginID": "791FC278BA414111B8D1886DFE447410"
+    },
+    "Remote Desktop Connection : Application": {
+      "SelectedCount": 8,
+      "LastSelected": "2026-02-25T16:52:44.7820649Z",
+      "IconPath": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Remote Desktop Connection.lnk",
+      "Title": "Remote Desktop Connection",
+      "Search": "remote",
+      "Score": 0,
+      "SubTitle": "Application",
+      "PluginID": "791FC278BA414111B8D1886DFE447410"
+    },
+    "Hyper-V Manager : Application": {
+      "SelectedCount": 2,
+      "LastSelected": "2026-02-23T17:11:31.2077984Z",
+      "IconPath": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Hyper-V Manager.lnk",
+      "Title": "Hyper-V Manager",
+      "Search": "hyper",
+      "Score": 0,
+      "SubTitle": "Application",
+      "PluginID": "791FC278BA414111B8D1886DFE447410"
+    },
+    "Google Chrome : Application": {
+      "SelectedCount": 3,
+      "LastSelected": "2026-04-14T07:25:52.9385942Z",
+      "IconPath": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Google Chrome.lnk",
+      "Title": "Google Chrome",
+      "Search": "chrom",
+      "Score": 0,
+      "SubTitle": "Application",
+      "PluginID": "791FC278BA414111B8D1886DFE447410"
+    },
+    "Google Maps : Packaged application": {
+      "SelectedCount": 8,
+      "LastSelected": "2026-04-17T12:01:02.5607562Z",
+      "Title": "Google Maps",
+      "Search": "map",
+      "Score": 0,
+      "SubTitle": "Packaged application",
+      "PluginID": "791FC278BA414111B8D1886DFE447410"
+    },
+    "Restart : Restart computer": {
+      "SelectedCount": 2,
+      "LastSelected": "2026-02-19T15:20:58.9687027Z",
+      "IconPath": "C:\\Users\\joe.pringle\\AppData\\Local\\PowerToys\\RunPlugins\\System\\Images\\restart.dark.png",
+      "Title": "Restart",
+      "Search": "restart",
+      "Score": 0,
+      "SubTitle": "Restart computer",
+      "PluginID": "CEA08895D2544B019B2E9C5009600DF4"
+    },
+    "Work - Edge : Application": {
+      "SelectedCount": 1,
+      "LastSelected": "2026-02-19T14:00:33.7744562Z",
+      "IconPath": "C:\\Users\\joe.pringle\\OneDrive - Jet2 PLC\\Desktop\\Work - Edge.lnk",
+      "Title": "Work - Edge",
+      "Search": "edge",
+      "Score": 0,
+      "SubTitle": "Application",
+      "PluginID": "791FC278BA414111B8D1886DFE447410"
+    },
+    "Task Manager : Application": {
+      "SelectedCount": 1,
+      "LastSelected": "2026-02-20T11:20:03.1668026Z",
+      "IconPath": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\System Tools\\Task Manager.lnk",
+      "Title": "Task Manager",
+      "Search": "task",
+      "Score": 0,
+      "SubTitle": "Application",
+      "PluginID": "791FC278BA414111B8D1886DFE447410"
+    },
+    "Thrive Learner Application : Packaged application": {
+      "SelectedCount": 2,
+      "LastSelected": "2026-03-19T15:00:35.9004814Z",
+      "Title": "Thrive Learner Application",
+      "Search": "thrive",
+      "Score": 0,
+      "SubTitle": "Packaged application",
+      "PluginID": "791FC278BA414111B8D1886DFE447410"
+    },
+    "Developer PowerShell for VS : Application": {
+      "SelectedCount": 2,
+      "LastSelected": "2026-04-16T14:40:21.6767276Z",
+      "IconPath": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Visual Studio\\Visual Studio Tools\\Developer PowerShell for VS.lnk",
+      "Title": "Developer PowerShell for VS",
+      "Search": "dveop",
+      "Score": 0,
+      "SubTitle": "Application",
+      "PluginID": "791FC278BA414111B8D1886DFE447410"
+    },
+    "Disk Clean-up : Application": {
+      "SelectedCount": 1,
+      "LastSelected": "2026-02-26T11:50:48.9440634Z",
+      "IconPath": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Disk Cleanup.lnk",
+      "Title": "Disk Clean-up",
+      "Search": "youi",
+      "Score": 0,
+      "SubTitle": "Application",
+      "PluginID": "791FC278BA414111B8D1886DFE447410"
+    },
+    "YouTube : Application": {
+      "SelectedCount": 1,
+      "LastSelected": "2026-02-26T11:51:04.9921452Z",
+      "IconPath": "C:\\Users\\joe.pringle\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Firefox Web Apps\\YouTube.lnk",
+      "Title": "YouTube",
+      "Search": "you",
+      "Score": 0,
+      "SubTitle": "Application",
+      "PluginID": "791FC278BA414111B8D1886DFE447410"
+    },
+    ".vscode : Search: C:\\Users\\joe.pringle\\Downloads\\NextjsProjects\\.vscode": {
+      "SelectedCount": 1,
+      "LastSelected": "2026-02-26T13:13:56.3348585Z",
+      "IconPath": "C:\\Users\\joe.pringle\\Downloads\\NextjsProjects\\.vscode",
+      "Title": ".vscode",
+      "Search": "vsco",
+      "Score": 0,
+      "SubTitle": "Search: C:\\Users\\joe.pringle\\Downloads\\NextjsProjects\\.vscode",
+      "PluginID": "2140FC9819AD43A3A616E2735815C27C"
+    },
+    "Windows Software Development Kit : Application": {
+      "SelectedCount": 1,
+      "LastSelected": "2026-03-30T12:46:37.0349449Z",
+      "IconPath": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows Kits\\Windows Software Development Kit\\Windows Software Development Kit.lnk",
+      "Title": "Windows Software Development Kit",
+      "Search": "deveop",
+      "Score": 0,
+      "SubTitle": "Application",
+      "PluginID": "791FC278BA414111B8D1886DFE447410"
+    },
+    "docker.exe : Run command": {
+      "SelectedCount": 4,
+      "LastSelected": "2026-04-15T09:41:14.8876755Z",
+      "IconPath": "C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe",
+      "Title": "docker.exe",
+      "Search": "docker",
+      "Score": 0,
+      "SubTitle": "Run command",
+      "PluginID": "791FC278BA414111B8D1886DFE447410"
+    },
+    "Excel : Application": {
+      "SelectedCount": 1,
+      "LastSelected": "2026-04-09T15:43:30.8353719Z",
+      "IconPath": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Excel.lnk",
+      "Title": "Excel",
+      "Search": "excel",
+      "Score": 0,
+      "SubTitle": "Application",
+      "PluginID": "791FC278BA414111B8D1886DFE447410"
+    },
+    "ODBC Data Sources (64-bit) : Application": {
+      "SelectedCount": 1,
+      "LastSelected": "2026-04-10T11:44:33.5628766Z",
+      "IconPath": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\ODBC Data Sources (64-bit).lnk",
+      "Title": "ODBC Data Sources (64-bit)",
+      "Search": "youi",
+      "Score": 0,
+      "SubTitle": "Application",
+      "PluginID": "791FC278BA414111B8D1886DFE447410"
+    }
+  }
+}

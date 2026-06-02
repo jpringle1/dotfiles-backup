@@ -1,0 +1,16 @@
+<application>
+  <component name="github-copilot">
+    <option name="signinNotificationShown" value="true" />
+    <option name="enableCompletions" value="false" />
+    <option name="nesDefaultAppliedForFreePlan" value="true" />
+    <languageAllowList>
+      <map>
+        <entry key="*" value="true" />
+      </map>
+    </languageAllowList>
+    <option name="enableCompletionsToolWindow" value="false" />
+    <option name="checkForUpdate" value="false" />
+    <option name="selectedCompletionModel" value="gpt-41-copilot" />
+    <option name="terminalRulesVersion" value="1" />
+  </component>
+</application>

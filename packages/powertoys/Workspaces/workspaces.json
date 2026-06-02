@@ -1,0 +1,130 @@
+{
+  "workspaces": [
+    {
+      "id": "{A13397EB-1E20-4859-A8DC-B8163DB8688D}",
+      "name": "Workspace - Teams",
+      "creation-time": 1745307715,
+      "last-launched-time": 1754293547,
+      "is-shortcut-needed": true,
+      "move-existing-windows": true,
+      "monitor-configuration": [
+        {
+          "id": "HKC27B2",
+          "instance-id": "4\u0026ba29b99\u00260\u0026UID20549",
+          "monitor-number": 1,
+          "dpi": 96,
+          "monitor-rect-dpi-aware": {
+            "top": 0,
+            "left": 0,
+            "width": 2560,
+            "height": 1440
+          },
+          "monitor-rect-dpi-unaware": {
+            "top": 0,
+            "left": 0,
+            "width": 2560,
+            "height": 1440
+          }
+        }
+      ],
+      "applications": [
+        {
+          "id": "{5016ef4e-74e0-493e-bdd7-96ba5b26d290}",
+          "application": "teams.microsoft.com (Microsoft Edge)",
+          "application-path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+          "title": "Microsoft Teams - Chat | Jason Briggs | Microsoft Teams",
+          "package-full-name": "",
+          "app-user-model-id": "MSEdge",
+          "pwa-app-id": "cifhbcnohmdccbgoicgdjpfamggdegmo",
+          "command-line-arguments": "",
+          "is-elevated": false,
+          "can-launch-elevated": true,
+          "minimized": false,
+          "maximized": true,
+          "position": {
+            "X": 1272,
+            "Y": 40,
+            "width": 1296,
+            "height": 1416
+          },
+          "monitor": 1,
+          "version": ""
+        }
+      ]
+    },
+    {
+      "id": "{F9CAE161-8193-4924-8557-342165581A99}",
+      "name": "Workspace - Code",
+      "creation-time": 1745309907,
+      "last-launched-time": 1760427497,
+      "is-shortcut-needed": true,
+      "move-existing-windows": false,
+      "monitor-configuration": [
+        {
+          "id": "HKC27B2",
+          "instance-id": "4\u0026ba29b99\u00260\u0026UID20549",
+          "monitor-number": 1,
+          "dpi": 96,
+          "monitor-rect-dpi-aware": {
+            "top": 0,
+            "left": 0,
+            "width": 2560,
+            "height": 1440
+          },
+          "monitor-rect-dpi-unaware": {
+            "top": 0,
+            "left": 0,
+            "width": 2560,
+            "height": 1440
+          }
+        }
+      ],
+      "applications": [
+        {
+          "id": "{62ab5758-a41b-4b19-b4e0-5fba669c1b86}",
+          "application": "Terminal Preview",
+          "application-path": "C:\\Program Files\\WindowsApps\\Microsoft.WindowsTerminalPreview_1.24.2682.0_x64__8wekyb3d8bbwe\\WindowsTerminal.exe",
+          "title": "Jet2.Flights.FlightStatus.Api - Lazygit",
+          "package-full-name": "Microsoft.WindowsTerminalPreview_1.24.2682.0_x64__8wekyb3d8bbwe",
+          "app-user-model-id": "Microsoft.WindowsTerminalPreview_8wekyb3d8bbwe!App",
+          "pwa-app-id": "",
+          "command-line-arguments": "",
+          "is-elevated": false,
+          "can-launch-elevated": true,
+          "minimized": false,
+          "maximized": true,
+          "position": {
+            "X": -8,
+            "Y": 32,
+            "width": 2576,
+            "height": 1416
+          },
+          "monitor": 1,
+          "version": ""
+        },
+        {
+          "id": "{46454024-1f93-4590-aeea-08b2dd543335}",
+          "application": "JetBrains Rider 2024.3.3",
+          "application-path": "C:\\Program Files (x86)\\JetBrains\\JetBrains Rider 2024.3.3\\bin\\rider64.exe",
+          "title": "Welcome to JetBrains Rider",
+          "package-full-name": "",
+          "app-user-model-id": "{7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\\JetBrains\\JetBrains Rider 2024.3.3\\bin\\rider64.exe",
+          "pwa-app-id": "",
+          "command-line-arguments": "",
+          "is-elevated": false,
+          "can-launch-elevated": true,
+          "minimized": false,
+          "maximized": true,
+          "position": {
+            "X": -8,
+            "Y": 32,
+            "width": 2576,
+            "height": 1416
+          },
+          "monitor": 1,
+          "version": ""
+        }
+      ]
+    }
+  ]
+}

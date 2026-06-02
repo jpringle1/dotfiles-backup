@@ -1,0 +1,394 @@
+<application>
+  <component name="RiderRecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="C:/repos/work/MyJet2.Edge/Jet2.MyJet2.Edge.sln">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Jet2.MyJet2.Edge – Commit: ShortlistController.cs" projectWorkspaceId="348gwd4JgijppNTaz7AYBuzg8BM">
+              <option name="activationTimestamp" value="1761124863996" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-252.26830.109" />
+              <option name="buildTimestamp" value="1759524960000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="1" />
+              </option>
+              <frame x="-8" y="-8" width="2576" height="1408" extendedState="6" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1761124474689" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/repos/work/Caching/Jet2.Holidays.Caching.sln">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Jet2.Holidays.Caching – AsyncCacheBase.cs" projectWorkspaceId="3544JeBJ3C24M9F47WuKlN6vOjG">
+              <option name="activationTimestamp" value="1762356254449" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-252.27397.121" />
+              <option name="buildTimestamp" value="1761554880000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="-8" y="-8" width="2576" height="1408" extendedState="6" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1762355940063" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/repos/work/Perks.Integration.API/Jet2.Perks.Integration.sln">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Jet2.Perks.Integration – CacheSetup.cs" projectWorkspaceId="349S5YzvqlAOLWSn1yk02LtmjDX">
+              <option name="activationTimestamp" value="1762362583038" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-252.27397.121" />
+              <option name="buildTimestamp" value="1761554880000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <frame x="-8" y="-8" width="2576" height="1408" extendedState="6" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1762360591452" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/repos/work/Holidays.PackageCharges.Api/Holidays.PackageCharges.sln">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Holidays.PackageCharges – values.feature-test-1.yaml" projectWorkspaceId="34pQoM5l2VC5NCd6ddvMnq001Mp">
+              <option name="activationTimestamp" value="1762855137485" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-252.27397.121" />
+              <option name="buildTimestamp" value="1761554880000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="5" />
+              </option>
+              <frame x="-8" y="-8" width="2576" height="1408" extendedState="6" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1762854344190" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/repos/work/DigEx.Edge.Holidays.Content.Api/DigEx.Edge.Holidays.Content.sln">
+          <value>
+            <RecentProjectMetaInfo frameTitle="DigEx.Edge.Holidays.Content – Commit: values.integration...." projectWorkspaceId="346U1imfN4ghMVO7PM5gUh0QXNq">
+              <option name="activationTimestamp" value="1763118309667" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-252.27397.121" />
+              <option name="buildTimestamp" value="1761554880000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="0" />
+              </option>
+              <frame x="-9" y="-9" width="1938" height="1158" extendedState="6" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1763109438964" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/repos/work/DigEx.Edge.Holidays.Search.Api/DigEx.Edge.Holidays.Search.Api.sln">
+          <value>
+            <RecentProjectMetaInfo displayName="DigEx.Edge.Holidays.Search.Api" frameTitle="DigEx.Edge.Holidays.Search.Api – C:\repos\work\DigEx.Edge.Holidays.Search.Api\src\Jet2.DigEx.Edge.Holidays.Search.Application\Connected Services\SearchService\CodeCoverageExclusions.cs" projectWorkspaceId="346aJDGXXG9rjeWpgmx4mDyohwG">
+              <option name="activationTimestamp" value="1764923595056" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-252.27397.121" />
+              <option name="buildTimestamp" value="1761554880000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="-8" y="-8" width="2576" height="1408" extendedState="6" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1763374848265" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/repos/work/Quote/Jet2.Holidays.Quote.sln">
+          <value>
+            <RecentProjectMetaInfo displayName="Jet2.Holidays.Quote" frameTitle="Jet2.Holidays.Quote – QuoteClientTests.cs" projectWorkspaceId="35y1uSGdCAxyU6LX2cmxBPdYM9u">
+              <option name="activationTimestamp" value="1764068222709" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-253.28294.189" />
+              <option name="buildTimestamp" value="1763629440000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="-8" y="0" width="2576" height="1408" extendedState="6" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1764067720046" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/repos/work/Diagnostics/Jet2.Holidays.Diagnostics.sln">
+          <value>
+            <RecentProjectMetaInfo displayName="Jet2.Holidays.Diagnostics" frameTitle="Jet2.Holidays.Diagnostics – Web.Release.config" projectWorkspaceId="35kbBrrcUjx6JqsazckiluSVMSd">
+              <option name="activationTimestamp" value="1764081038023" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-253.28294.189" />
+              <option name="buildTimestamp" value="1763629440000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="7" />
+              </option>
+              <frame x="-8" y="0" width="2570" height="1402" extendedState="6" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1764068223845" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/repos/work/Jet2Holidays/Jet2Holidays.sln">
+          <value>
+            <RecentProjectMetaInfo displayName="Jet2Holidays" frameTitle="Jet2Holidays – Jet2Holidays.WCFServices.Search\Web.config" projectWorkspaceId="34k6sAu0xQz5ylckOqSwIC0VjNv">
+              <option name="activationTimestamp" value="1765805660221" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-253.28294.237" />
+              <option name="buildTimestamp" value="1764174780000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="4" />
+              </option>
+              <frame x="1273" y="0" width="1294" height="1399" extendedState="6" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1765800763087" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/src/Jet2Holidays/Jet2Holidays.sln">
+          <value>
+            <RecentProjectMetaInfo displayName="Jet2Holidays" frameTitle="Jet2Holidays – BookingService.ChangeAccommodation.cs" projectWorkspaceId="34k6sAu0xQz5ylckOqSwIC0VjNv">
+              <option name="activationTimestamp" value="1767804193625" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-253.28294.237" />
+              <option name="buildTimestamp" value="1764174780000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="4" />
+              </option>
+              <frame x="-8" y="-8" width="2576" height="1408" extendedState="6" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1767778505226" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/repos/work/LS1.Res.CallCentre/LS1.Res.CallCentre.sln">
+          <value>
+            <RecentProjectMetaInfo displayName="LS1.Res.CallCentre" frameTitle="LS1.Res.CallCentre – LS1.Res.CallCentre.sln" projectWorkspaceId="37yz24CXER2jtwobYPB1xaEStxC">
+              <option name="activationTimestamp" value="1767891127433" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-253.28294.237" />
+              <option name="buildTimestamp" value="1764174780000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="0" />
+              </option>
+              <frame x="580" y="196" width="1400" height="1000" extendedState="6" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1767889889727" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/repos/work/Jet2.Reservations/src/ReservationsSystem.sln">
+          <value>
+            <RecentProjectMetaInfo displayName="ReservationsSystem" frameTitle="ReservationsSystem – Web.config" projectWorkspaceId="380uorERNL08bLJL9wgTK3NTnmT">
+              <option name="activationTimestamp" value="1768493977699" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-253.28294.237" />
+              <option name="buildTimestamp" value="1764174780000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="1" />
+              </option>
+              <frame x="580" y="196" width="1400" height="1000" extendedState="6" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1768478220183" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/repos/work/Edge.Mobile/Jet2.Edge.Mobile.sln">
+          <value>
+            <RecentProjectMetaInfo displayName="Jet2.Edge.Mobile" frameTitle="Jet2.Edge.Mobile" projectWorkspaceId="38tMWhSYgRXazuxz17VETtmwyeN">
+              <option name="activationTimestamp" value="1769614658275" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-253.28294.237" />
+              <option name="buildTimestamp" value="1764174780000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="4" />
+              </option>
+              <frame x="-8" y="-8" width="2576" height="1408" extendedState="6" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1769614446964" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/repos/work/Account.API/Jet2.Account.sln">
+          <value>
+            <RecentProjectMetaInfo displayName="Jet2.Account" frameTitle="Jet2.Account – CreateAssociationHolidays.feature" projectWorkspaceId="38tJIPwhcOKbRYEKQBHhTbGIzyU">
+              <option name="activationTimestamp" value="1769618897725" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-253.28294.237" />
+              <option name="buildTimestamp" value="1764174780000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <frame x="-8" y="-8" width="2576" height="1408" extendedState="6" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1769616204264" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/repos/personal/AwsEducation/AwsEducation.slnx">
+          <value>
+            <RecentProjectMetaInfo displayName="AwsEducation" frameTitle="AwsEducation – Program.cs" projectWorkspaceId="39Qfck1Ap26AZ9aruXQ9D9Op7H8">
+              <option name="activationTimestamp" value="1770633416319" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-253.28294.237" />
+              <option name="buildTimestamp" value="1764174780000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="5" />
+              </option>
+              <frame x="-8" y="-8" width="2576" height="1408" extendedState="6" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1770633297093" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/repos/personal/AzdoCli/AzureConsoleApp.sln">
+          <value>
+            <RecentProjectMetaInfo displayName="AzureConsoleApp" frameTitle="AzureConsoleApp – AzureAuthenticationService.cs" projectWorkspaceId="38WMO9HDFNImkwKej8Lk2wGXqJv">
+              <option name="activationTimestamp" value="1776151619098" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-253.28294.237" />
+              <option name="buildTimestamp" value="1764174780000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <frame x="-8" y="-8" width="2576" height="1408" extendedState="6" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1776151472271" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/repos/jet2/ExternalSMSOptInUploader/infrastructure/terraform/scripts/UploadCustomerPreferences.csproj">
+          <value>
+            <RecentProjectMetaInfo displayName="UploadCustomerPreferences" frameTitle="scripts" projectWorkspaceId="3ClJnaUVBOMfptC1yJoBBB3dLI1">
+              <option name="activationTimestamp" value="1777296851948" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-261.22158.394" />
+              <option name="buildTimestamp" value="1775685000000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="-6" y="0" width="1293" height="1409" extendedState="6" />
+              <option name="metadata" value="scripts|C:\repos\jet2\ExternalSMSOptInUploader\infrastructure\terraform\scripts\UploadCustomerPreferences.csproj" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1777280909309" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/repos/jet2/ExternalSMSOptInUploader/apps/lambda/lambda/lambda.slnx">
+          <value>
+            <RecentProjectMetaInfo displayName="lambda" frameTitle="lambda" projectWorkspaceId="3CwW31cFprhqHKdZIuMfT6TNiaO">
+              <option name="activationTimestamp" value="1777297127050" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-261.22158.394" />
+              <option name="buildTimestamp" value="1775685000000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="-8" y="30" width="2576" height="1418" extendedState="6" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1777296910301" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/repos/jet2/ExternalSMSOptInUploader/apps/lambda/lambda.slnx">
+          <value>
+            <RecentProjectMetaInfo displayName="lambda" frameTitle="lambda" projectWorkspaceId="3CwXM25HUkYbZ1fC0vsgfPMqsxN">
+              <option name="activationTimestamp" value="1777297797902" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-261.22158.394" />
+              <option name="buildTimestamp" value="1775685000000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="0" />
+              </option>
+              <frame x="-8" y="30" width="2576" height="1418" extendedState="6" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1777297702582" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/repos/jet2/ExternalSMSOptInUploader/apps/UploadCustomerPreferencesLambda/UploadCustomerPreferencesLambda.slnx">
+          <value>
+            <RecentProjectMetaInfo displayName="UploadCustomerPreferencesLambda" projectWorkspaceId="3CwYGPrFQSsH6vK4yoJ8orbGhXJ">
+              <option name="activationTimestamp" value="1777299479352" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-261.22158.394" />
+              <option name="buildTimestamp" value="1775685000000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="1" />
+              </option>
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1777298003076" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/repos/jet2/Jet2.CustomerPreference/src/Jet2.CustomerPreference.sln">
+          <value>
+            <RecentProjectMetaInfo displayName="Jet2.CustomerPreference" frameTitle="Jet2.CustomerPreference" projectWorkspaceId="3Cybz03XN7nYn2tlePvsBR5WYF4">
+              <option name="activationTimestamp" value="1777379975135" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-261.22158.394" />
+              <option name="buildTimestamp" value="1775685000000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <frame x="580" y="201" width="1400" height="1000" extendedState="6" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1777361150968" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/repos/jet2/ExternalSMSOptInUploader/apps/sms-opt-ins-lambda/LambdaRunner/LambdaRunner.csproj">
+          <value>
+            <RecentProjectMetaInfo displayName="LambdaRunner" frameTitle="LambdaRunner – Program.cs" projectWorkspaceId="3CzYBIOyEy9Dv6X38G3iDyPvZVr">
+              <option name="activationTimestamp" value="1777389727864" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-261.22158.394" />
+              <option name="buildTimestamp" value="1775685000000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <frame x="580" y="201" width="1400" height="1000" extendedState="6" />
+              <option name="metadata" value="LambdaRunner|C:\repos\jet2\ExternalSMSOptInUploader\apps\sms-opt-ins-lambda\LambdaRunner\LambdaRunner.csproj" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1777389729492" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/repos/jet2/ExternalSMSOptInUploader/apps/sms-opt-ins-lambda/sms-opt-ins-lambda.slnx">
+          <value>
+            <RecentProjectMetaInfo displayName="sms-opt-ins-lambda" frameTitle="sms-opt-ins-lambda" projectWorkspaceId="3CzawAf8BKVoMLhRSEDjlTDWJr8">
+              <option name="activationTimestamp" value="1777391323391" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-261.22158.394" />
+              <option name="buildTimestamp" value="1775685000000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="4" />
+              </option>
+              <frame x="580" y="201" width="1400" height="1000" extendedState="6" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1777391088439" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/repos/jet2/ExternalSMSOptInUploader/apps/sms-opt-ins-lambda/SmsOptInsLambda.slnx">
+          <value>
+            <RecentProjectMetaInfo displayName="SmsOptInsLambda" frameTitle="SmsOptInsLambda – C:\Users\joe.pringle\AppData\Roaming\JetBrains\Rider2026.1\rider64.exe.vmoptions" opened="true" projectWorkspaceId="3CzbPpudBakPLPyG1GvioGJdBxN">
+              <option name="activationTimestamp" value="1779101401892" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-261.22158.394" />
+              <option name="buildTimestamp" value="1775685000000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="5" />
+              </option>
+              <frame x="-7" y="38" width="1294" height="1409" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1779101407258" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="C:/repos/jet2/ExternalSMSOptInUploader/apps/sms-opt-ins-lambda/SmsOptInsLambda.slnx" />
+  </component>
+</application>

@@ -1,0 +1,16 @@
+lastupdatecheck: 0
+recentrepos:
+    - C:\src\dotfiles
+    - C:\repos\jet2\ExternalSMSOptInUploader
+    - C:\repos\jet2\Jet2.CustomerPreference
+    - C:\repos\personal\lilyCorne
+    - C:\repos\jet2\terraform-aws-sns-topic
+    - C:\Users\joe.pringle\Downloads\NextjsProjects\pringle-solution
+    - C:\repos\personal\AzdoCli
+startuppopupversion: 5
+didshowhunkstaginghint: true
+lastversion: 0.61.1
+customcommandshistory:
+    - w
+hidecommandlog: false
+githubPullRequests: {}

@@ -1,0 +1,125 @@
+(defcfg
+    process-unmapped-keys yes
+    block-unmapped-keys yes
+    linux-dev-names-include (
+        "Logitech MX Keys"
+    )
+)
+
+(defvar
+  exc S-1    ;; ! Exclamation mark
+  dlr S-4    ;; $ Dollar
+  per S-5    ;; % Percent
+  crt S-6    ;; ^ Caret or circumflex
+  amp S-7    ;; & Ampersand
+  ask S-8    ;; * Asterisk
+  lps S-9    ;; ( Left parenthesis
+  rps S-0    ;; ) Right parenthesis
+  pls S-=    ;; + Plus
+  lbk S-[    ;; { Left curly bracket
+  rbk S-]    ;; } Right curly bracket
+  uds S--    ;; _ Underscore
+  qtm S-/    ;; ? Question mark
+  tld S-\    ;; Tilda
+  pip S-nubs ;; Vertical bar
+  hsh bksl   ;; # Number sign - on US keyboards it's where backslash is
+  dqm S-2    ;; Double quotation marks
+  eur RA-4   ;; Euro
+  gbp S-3    ;; £
+  ats S-'    ;; @
+  lst S-,    ;; <
+  grt S-.    ;; >
+  cln S-;    ;; :
+  mns -      ;; Minus
+  non ✗	
+)
+
+
+(defsrc
+    Backquote    1    2    3    4              8    9    0    -    =
+    tab          q    w    e    r              i    o    p    [    ]
+    CapsLock     a    s    d    f              k    l    ;    '    Backslash    
+                           x    c    v    m    ,    .
+)
+
+(defalias
+  ms↑ (movemouse-up 4 4)
+  ms← (movemouse-left 4 4)
+  ms↓ (movemouse-down 4 4)
+  ms→ (movemouse-right 4 4)
+
+  ms-up-smol (movemouse-up 4  1)
+  ms-down-smol (movemouse-down 4 1)
+  ms-left-smol (movemouse-left 4 1)
+  ms-right-smol (movemouse-right 4 1)
+)
+ 
+(defalias
+    a (tap-hold 200 200 a lmeta)
+    s (tap-hold 200 200 s lalt)
+    d (tap-hold 200 200 d lctl)
+    f (tap-hold 200 200 f lshft)
+    j (tap-hold 200 200 j lshft)
+    k (tap-hold 200 200 k lctl)
+    l (tap-hold 200 200 l lalt)
+    ; (tap-hold 200 200 ; lmeta)
+    
+    spc (tap-hold 200 200 Space (layer-while-held num-sym))
+    rtn (tap-hold 200 200 return (layer-while-held num-sym))
+    tab (tap-hold 200 200 tab (layer-while-held func))
+    bspc (tap-hold 200 200 Backspace (layer-while-held func))
+    media (tap-hold 200 200 pp mute)
+
+    lmse (tap-hold 200 200 mltp (layer-while-held mouse))
+    rmse (tap-hold 200 200 mrtp (layer-while-held mouse))
+
+    1 (tap-hold 200 200 1 f1)
+    2 (tap-hold 200 200 2 f2)
+    3 (tap-hold 200 200 3 f3)
+    4 (tap-hold 200 200 4 f4)
+    5 (tap-hold 200 200 5 f5)
+    6 (tap-hold 200 200 6 f6)
+    7 (tap-hold 200 200 7 f7)
+    8 (tap-hold 200 200 8 f8)
+    9 (tap-hold 200 200 9 f9)
+    0 (tap-hold 200 200 0 f10)
+    
+    par (tap-hold 200 200 $lps $rps)
+    brc (tap-hold 200 200 [ ] )
+    brk (tap-hold 200 200 $lbk $lbk)
+    cur (tap-hold 200 200 S-4 S-3)
+    thn (tap-hold 200 200 S-, S-.)
+
+    space-mod (fork @spc Escape (alt))
+    return-mod (fork @rtn caps (alt))
+)
+
+(deflayer base
+    q     w     e     r     t                        y    u    i    o    p
+    @a    @s    @d    @f    g                        h    @j   @k   @l    @;
+    z     x     c     v     b     	             n    m    ,    .    /
+                      @lmse @bspc @space-mod @return-mod @tab @rmse
+)
+
+(deflayer num-sym
+    $exc    $dqm      $uds    @par     @cur                  =       $mns    $pls    $ask    $per
+    @1      @2        @3      @4       @5                    @6      @7      @8      @9      @0
+    $non    @thn      @brk    @brc     \                     $pip    $tld    `       '       $ats
+                              $non     $non    F11     F12   $non    $non
+)
+
+(deflayer func
+    prev    voldwn    volu     next    @media                  $non    $non        $non        $non        $non
+    del     lft     down      up       rght                     left       down       up         rght         ins
+    home    pgdn      pgup     end     $non                    $non    home       pgdn       pgup       end
+                               $non    $non    $non    $non    $non    $non
+)
+
+(deflayer mouse
+   @ms-left-smol    @ms-down-smol    @ms-up-smol    @ms-right-smol    $non                    $non    @ms-left-smol    @ms-down-smol    @ms-up-smol    @ms-right-smol
+   $non    @ms←    @ms↓    @ms↑    @ms→                                                @ms←    @ms↓    @ms↑    @ms→    $non
+   $non    $non    $non    $non    $non                                                $non    $non    $non    $non    $non
+                           $non    $non    $non                                $non    $non    $non    
+)
+
+

@@ -1,0 +1,3 @@
+UUID=e955d6bb-556d-406b-8d40-f3f0c3e5dc3d    /mnt/games    ext4    defaults    0    1
+UUID=f9aba5e3-6358-43f0-aa4a-dd6bb98903a4    /mnt/extra250    ext4    defaults    0    1
+UUID=8b78fd88-3830-4c9a-b0d2-9b8476d09490    /mnt/extra500    ext4    defaults    0    1

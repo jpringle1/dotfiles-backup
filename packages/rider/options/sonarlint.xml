@@ -1,0 +1,15 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="nodejsPath" value="C:\Program Files\nodejs\node.exe" />
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonarqube.cont.ls1test.local" />
+          <option name="name" value="jet2" />
+          <disableNotifications>true</disableNotifications>
+        </SonarQubeServer>
+      </list>
+    </option>
+    <rules />
+  </component>
+</application>

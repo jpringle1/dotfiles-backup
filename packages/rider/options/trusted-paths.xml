@@ -1,0 +1,64 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="C:\repos\jet2\ExternalSMSOptInUploader" value="true" />
+        <entry key="C:\repos\jet2\ExternalSMSOptInUploader\apps\UploadCustomerPreferencesLambda" value="true" />
+        <entry key="C:\repos\jet2\ExternalSMSOptInUploader\apps\UploadCustomerPreferencesLambda\.idea\.idea.UploadCustomerPreferencesLambda" value="true" />
+        <entry key="C:\repos\jet2\ExternalSMSOptInUploader\apps\lambda" value="true" />
+        <entry key="C:\repos\jet2\ExternalSMSOptInUploader\apps\lambda\.idea\.idea.lambda" value="true" />
+        <entry key="C:\repos\jet2\ExternalSMSOptInUploader\apps\lambda\lambda" value="true" />
+        <entry key="C:\repos\jet2\ExternalSMSOptInUploader\apps\lambda\lambda\.idea\.idea.lambda" value="true" />
+        <entry key="C:\repos\jet2\ExternalSMSOptInUploader\apps\sms-opt-ins-lambda" value="true" />
+        <entry key="C:\repos\jet2\ExternalSMSOptInUploader\apps\sms-opt-ins-lambda\.idea\.idea.SmsOptInsLambda" value="true" />
+        <entry key="C:\repos\jet2\ExternalSMSOptInUploader\apps\sms-opt-ins-lambda\.idea\.idea.sms-opt-ins-lambda" value="true" />
+        <entry key="C:\repos\jet2\ExternalSMSOptInUploader\apps\sms-opt-ins-lambda\LambdaRunner" value="true" />
+        <entry key="C:\repos\jet2\ExternalSMSOptInUploader\apps\sms-opt-ins-lambda\LambdaRunner\.idea\.idea.LambdaRunner.dir" value="true" />
+        <entry key="C:\repos\jet2\ExternalSMSOptInUploader\infrastructure\terraform\scripts" value="true" />
+        <entry key="C:\repos\jet2\ExternalSMSOptInUploader\infrastructure\terraform\scripts\.idea\.idea.scripts.dir" value="true" />
+        <entry key="C:\repos\jet2\Jet2.CustomerPreference\src" value="true" />
+        <entry key="C:\repos\jet2\Jet2.CustomerPreference\src\.idea\.idea.Jet2.CustomerPreference" value="true" />
+        <entry key="C:\repos\personal\AwsEducation" value="true" />
+        <entry key="C:\repos\personal\AwsEducation\.idea\.idea.AwsEducation" value="true" />
+        <entry key="C:\repos\personal\AzdoCli" value="true" />
+        <entry key="C:\repos\personal\AzdoCli\.idea\.idea.AzureConsoleApp" value="true" />
+        <entry key="C:\repos\work\Account.API" value="true" />
+        <entry key="C:\repos\work\Account.API\.idea\.idea.Jet2.Account" value="true" />
+        <entry key="C:\repos\work\Caching" value="true" />
+        <entry key="C:\repos\work\Caching\.idea\.idea.Jet2.Holidays.Caching" value="true" />
+        <entry key="C:\repos\work\Diagnostics" value="true" />
+        <entry key="C:\repos\work\Diagnostics\.idea\.idea.Jet2.Holidays.Diagnostics" value="true" />
+        <entry key="C:\repos\work\DigEx.Edge.Holidays.Content.Api" value="true" />
+        <entry key="C:\repos\work\DigEx.Edge.Holidays.Content.Api\.idea\.idea.DigEx.Edge.Holidays.Content" value="true" />
+        <entry key="C:\repos\work\DigEx.Edge.Holidays.Search.Api" value="true" />
+        <entry key="C:\repos\work\DigEx.Edge.Holidays.Search.Api\.idea\.idea.DigEx.Edge.Holidays.Search.Api" value="true" />
+        <entry key="C:\repos\work\Edge.Mobile" value="true" />
+        <entry key="C:\repos\work\Edge.Mobile\.idea\.idea.Jet2.Edge.Mobile" value="true" />
+        <entry key="C:\repos\work\Holidays.PackageCharges.Api" value="true" />
+        <entry key="C:\repos\work\Holidays.PackageCharges.Api\.idea\.idea.Holidays.PackageCharges" value="true" />
+        <entry key="C:\repos\work\Jet2.Reservations\src" value="true" />
+        <entry key="C:\repos\work\Jet2.Reservations\src\.idea\.idea.ReservationsSystem" value="true" />
+        <entry key="C:\repos\work\Jet2Holidays" value="true" />
+        <entry key="C:\repos\work\Jet2Holidays\.idea\.idea.Jet2Holidays" value="true" />
+        <entry key="C:\repos\work\LS1.Res.CallCentre" value="true" />
+        <entry key="C:\repos\work\LS1.Res.CallCentre\.idea\.idea.LS1.Res.CallCentre" value="true" />
+        <entry key="C:\repos\work\MyJet2.Edge" value="true" />
+        <entry key="C:\repos\work\MyJet2.Edge\.idea\.idea.Jet2.MyJet2.Edge" value="true" />
+        <entry key="C:\repos\work\Perks.Integration.API" value="true" />
+        <entry key="C:\repos\work\Perks.Integration.API\.idea\.idea.Jet2.Perks.Integration" value="true" />
+        <entry key="C:\repos\work\Quote" value="true" />
+        <entry key="C:\repos\work\Quote\.idea\.idea.Jet2.Holidays.Quote" value="true" />
+        <entry key="C:\src\DigEx.Edge.Holidays.Search.Api" value="true" />
+        <entry key="C:\src\DigEx.Edge.Holidays.Search.Api\.idea\.idea.DigEx.Edge.Holidays.Search.Api" value="true" />
+        <entry key="C:\src\Jet2Holidays" value="true" />
+        <entry key="C:\src\Jet2Holidays\.idea\.idea.Jet2Holidays" value="true" />
+        <entry key="C:\src\repos-work\DigEx.Edge.Holidays.Content.Api" value="true" />
+        <entry key="C:\src\repos-work\DigEx.Edge.Holidays.Content.Api\.idea\.idea.DigEx.Edge.Holidays.Content" value="true" />
+        <entry key="C:\src\repos-work\DigEx.Edge.Holidays.Search.Api" value="true" />
+        <entry key="C:\src\repos-work\DigEx.Edge.Holidays.Search.Api\.idea\.idea.DigEx.Edge.Holidays.Search.Api" value="true" />
+        <entry key="C:\src\repos-work\MyJet2.Edge" value="true" />
+        <entry key="C:\src\repos-work\MyJet2.Edge\.idea\.idea.Jet2.MyJet2.Edge" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,8 @@
+[user]
+	name = Joe Pringle
+	email = joe.pringle@jet2.com
+[core]
+	editor = nvim
+	autocrlf = input
+[init]
+	defaultBranch = main

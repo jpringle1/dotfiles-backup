@@ -1,0 +1,26 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="Encoding" addBOMForNewFiles="with BOM under Windows, with no BOM otherwise" />
+      <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
+  }
+}</component>
+      <component name="WindowStateProjectService">
+        <state x="716" y="517" key="Rider.InstallTemplatesDialog.Size" timestamp="1777297990700">
+          <screen x="0" y="38" width="2560" height="1402" />
+        </state>
+        <state x="716" y="517" key="Rider.InstallTemplatesDialog.Size/0.38.2560.1402" timestamp="1777297990700" />
+        <state x="822" y="396" key="Rider.NewProjectDialog.Size" timestamp="1777298001801">
+          <screen x="0" y="38" width="2560" height="1402" />
+        </state>
+        <state x="822" y="396" key="Rider.NewProjectDialog.Size/0.38.2560.1402" timestamp="1777298001801" />
+        <state x="781" y="332" key="SettingsEditor" timestamp="1770223092309">
+          <screen x="0" y="0" width="2560" height="1392" />
+        </state>
+        <state x="781" y="332" key="SettingsEditor/0.0.2560.1392" timestamp="1770223092309" />
+      </component>
+    </defaultProject>
+  </component>
+</application>

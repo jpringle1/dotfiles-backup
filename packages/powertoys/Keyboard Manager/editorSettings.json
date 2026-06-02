@@ -1,0 +1,192 @@
+{
+  "ShortcutSettingsDictionary": {
+    "4d4d8ca6-1ce0-4d94-9035-45db304b75eb": {
+      "Id": "4d4d8ca6-1ce0-4d94-9035-45db304b75eb",
+      "Shortcut": {
+        "OriginalKeys": "162;160;77",
+        "TargetKeys": "91;164;75",
+        "TargetApp": "",
+        "OperationType": 0,
+        "TargetText": "",
+        "ProgramPath": "",
+        "ProgramArgs": "",
+        "StartInDirectory": "",
+        "Elevation": 0,
+        "IfRunningAction": 0,
+        "Visibility": 0,
+        "UriToOpen": ""
+      },
+      "Profiles": [],
+      "IsActive": true
+    },
+    "1d9319ae-d946-4ea3-a160-b6aac284ffd1": {
+      "Id": "1d9319ae-d946-4ea3-a160-b6aac284ffd1",
+      "Shortcut": {
+        "OriginalKeys": "92;161;81",
+        "TargetKeys": "164;115",
+        "TargetApp": "",
+        "OperationType": 0,
+        "TargetText": "",
+        "ProgramPath": "",
+        "ProgramArgs": "",
+        "StartInDirectory": "",
+        "Elevation": 0,
+        "IfRunningAction": 0,
+        "Visibility": 0,
+        "UriToOpen": ""
+      },
+      "Profiles": [],
+      "IsActive": true
+    },
+    "0232390c-bbb3-4d9c-9580-1401156050bd": {
+      "Id": "0232390c-bbb3-4d9c-9580-1401156050bd",
+      "Shortcut": {
+        "OriginalKeys": "260;68",
+        "TargetKeys": "16;126",
+        "TargetApp": "",
+        "OperationType": 0,
+        "TargetText": "",
+        "ProgramPath": "",
+        "ProgramArgs": "",
+        "StartInDirectory": "",
+        "Elevation": 0,
+        "IfRunningAction": 0,
+        "Visibility": 0,
+        "UriToOpen": ""
+      },
+      "Profiles": [],
+      "IsActive": false
+    },
+    "419ffadf-5574-4606-a3a9-95a66dea51ed": {
+      "Id": "419ffadf-5574-4606-a3a9-95a66dea51ed",
+      "Shortcut": {
+        "OriginalKeys": "92;13",
+        "TargetKeys": "92;13",
+        "TargetApp": "",
+        "OperationType": 1,
+        "TargetText": "",
+        "ProgramPath": "C:\\Users\\joe.pringle\\AppData\\Local\\Microsoft\\WindowsApps\\wt.exe",
+        "ProgramArgs": "",
+        "StartInDirectory": "",
+        "Elevation": 0,
+        "IfRunningAction": 0,
+        "Visibility": 0,
+        "UriToOpen": ""
+      },
+      "Profiles": [],
+      "IsActive": true
+    },
+    "ef714e77-db57-48dc-9064-75c630965619": {
+      "Id": "ef714e77-db57-48dc-9064-75c630965619",
+      "Shortcut": {
+        "OriginalKeys": "260;16;83",
+        "TargetKeys": "164;115",
+        "TargetApp": "snip \u0026 sketch",
+        "OperationType": 0,
+        "TargetText": "",
+        "ProgramPath": "",
+        "ProgramArgs": "",
+        "StartInDirectory": "",
+        "Elevation": 0,
+        "IfRunningAction": 0,
+        "Visibility": 0,
+        "UriToOpen": ""
+      },
+      "Profiles": [],
+      "IsActive": true
+    },
+    "b70bfcf3-aae3-48a5-b7c7-489e87722e05": {
+      "Id": "b70bfcf3-aae3-48a5-b7c7-489e87722e05",
+      "Shortcut": {
+        "OriginalKeys": "124",
+        "TargetKeys": "164;115",
+        "TargetApp": "",
+        "OperationType": 0,
+        "TargetText": "",
+        "ProgramPath": "",
+        "ProgramArgs": "",
+        "StartInDirectory": "",
+        "Elevation": 0,
+        "IfRunningAction": 0,
+        "Visibility": 0,
+        "UriToOpen": ""
+      },
+      "Profiles": [],
+      "IsActive": true
+    },
+    "b73f2d42-3f10-42f0-a03d-34a7b0162d10": {
+      "Id": "b73f2d42-3f10-42f0-a03d-34a7b0162d10",
+      "Shortcut": {
+        "OriginalKeys": "162;87",
+        "TargetKeys": "32",
+        "TargetApp": "Edge",
+        "OperationType": 0,
+        "TargetText": "",
+        "ProgramPath": "",
+        "ProgramArgs": "",
+        "StartInDirectory": "",
+        "Elevation": 0,
+        "IfRunningAction": 0,
+        "Visibility": 0,
+        "UriToOpen": ""
+      },
+      "Profiles": [],
+      "IsActive": true
+    },
+    "f5f8e7c4-085f-40dd-bc6f-78bf1906bb39": {
+      "Id": "f5f8e7c4-085f-40dd-bc6f-78bf1906bb39",
+      "Shortcut": {
+        "OriginalKeys": "163;87",
+        "TargetKeys": "32",
+        "TargetApp": "msedge.exe",
+        "OperationType": 0,
+        "TargetText": "",
+        "ProgramPath": "",
+        "ProgramArgs": "",
+        "StartInDirectory": "",
+        "Elevation": 0,
+        "IfRunningAction": 0,
+        "Visibility": 0,
+        "UriToOpen": ""
+      },
+      "Profiles": [],
+      "IsActive": true
+    },
+    "cc39f168-d7e8-4cb3-b9dc-1f67e22ed69a": {
+      "Id": "cc39f168-d7e8-4cb3-b9dc-1f67e22ed69a",
+      "Shortcut": {
+        "OriginalKeys": "163;161;87",
+        "TargetKeys": "163;87",
+        "TargetApp": "msedge.exe",
+        "OperationType": 0,
+        "TargetText": "",
+        "ProgramPath": "",
+        "ProgramArgs": "",
+        "StartInDirectory": "",
+        "Elevation": 0,
+        "IfRunningAction": 0,
+        "Visibility": 0,
+        "UriToOpen": ""
+      },
+      "Profiles": [],
+      "IsActive": true
+    }
+  },
+  "ProfileDictionary": {},
+  "ShortcutsByOperationType": {
+    "RemapShortcut": [
+      "4d4d8ca6-1ce0-4d94-9035-45db304b75eb",
+      "0232390c-bbb3-4d9c-9580-1401156050bd",
+      "ef714e77-db57-48dc-9064-75c630965619",
+      "b70bfcf3-aae3-48a5-b7c7-489e87722e05",
+      "b73f2d42-3f10-42f0-a03d-34a7b0162d10",
+      "f5f8e7c4-085f-40dd-bc6f-78bf1906bb39",
+      "cc39f168-d7e8-4cb3-b9dc-1f67e22ed69a",
+      "1d9319ae-d946-4ea3-a160-b6aac284ffd1"
+    ],
+    "RunProgram": [
+      "419ffadf-5574-4606-a3a9-95a66dea51ed"
+    ]
+  },
+  "ActiveProfile": ""
+}

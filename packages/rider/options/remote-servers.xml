@@ -1,0 +1,14 @@
+<application>
+  <component name="RemoteServers">
+    <remote-server name="Docker" type="docker">
+      <configuration>
+        <option name="apiUrl" value="npipe:////./pipe/docker_engine" />
+        <option name="autoDetectExePaths" value="true" />
+        <option name="certificatesPath" />
+        <option name="customConfiguratorId" value="DockerDefaultConnectionConfigurator" />
+        <option name="dockerComposeExePath" value="C:\Program Files\Docker\Docker\resources\bin\docker.exe" />
+        <option name="dockerExePath" value="C:\Program Files\Docker\Docker\resources\bin\docker.exe" />
+      </configuration>
+    </remote-server>
+  </component>
+</application>

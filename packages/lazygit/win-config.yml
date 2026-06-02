@@ -1,0 +1,20 @@
+notARepository: 'skip'
+filterMode: fuzzy
+autoFetch: true
+fetchAll: true
+parseEmoji: true
+os:
+  editPreset: 'nvim'
+
+keybinding:
+  universal:
+    prevBlock-alt: "j"   # was h
+    nextBlock-alt: ";"   # was l
+
+    prevItem-alt: "l"    # was k
+    nextItem-alt: "k"    # was l
+
+git:
+  pagers:
+    - externalDiffCommand: "C:/src/config/packages/lazygit/lazygit-pager-sbs.ps1"
+    - externalDiffCommand: "C:/src/config/packages/lazygit/lazygit-pager-uni.ps1"

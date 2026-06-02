@@ -1,0 +1,22 @@
+<scheme name="_@user_Catppuccin Frappe" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="ide">Rider</property>
+    <property name="ideVersion">2024.3.3.0.0</property>
+    <property name="originalScheme">Catppuccin Frappe</property>
+    <property name="partialSave">true</property>
+    <property name="pluginId">com.github.catppuccin.jetbrains</property>
+  </metaInfo>
+  <option name="LINE_SPACING" value="1.2" />
+  <option name="EDITOR_FONT_SIZE" value="17" />
+  <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
+  <option name="EDITOR_LIGATURES" value="true" />
+  <attributes>
+    <option name="CTRL_CLICKABLE">
+      <value>
+        <option name="FOREGROUND" value="8caaee" />
+        <option name="EFFECT_COLOR" value="8caaee" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

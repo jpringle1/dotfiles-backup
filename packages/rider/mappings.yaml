@@ -1,0 +1,7 @@
+codestyles: "~/AppData/Roaming/JetBrains/Rider/config/codestyles"
+colors: "~/AppData/Roaming/JetBrains/Rider/config/colors"
+keymaps: "~/AppData/Roaming/JetBrains/Rider/config/keymaps"
+options: "~/AppData/Roaming/JetBrains/Rider/config/options"
+settingsSync: "~/AppData/Roaming/JetBrains/Rider/config/settingsSync"
+idea.properties: "~/AppData/Roaming/JetBrains/Rider/idea.properties"
+ideavimrc: "~/.ideavimrc"

@@ -1,0 +1,22 @@
+{
+	"name": "Vimium C",
+	"@time": "13/04/2026, 11:39:03",
+	"time": 1776076743197,
+	"environment": {
+		"extension": "2.12.3",
+		"platform": "win",
+		"chromium": 146
+	},
+	"keyLayout": 2,
+	"keyMappings": [
+		"#!no-check",
+		"mapKey <c-c> <esc>",
+		"",
+		"map k scrollDown",
+		"map l scrollUp",
+		"map ; scrollLeft",
+		"map j scrollRight",
+		""
+	],
+	"vimSync": true
+}

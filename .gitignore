@@ -1,0 +1,4 @@
+xorg-session.log
+*log.txt
+*.log
+*.sqlite-wal

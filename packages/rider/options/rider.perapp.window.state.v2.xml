@@ -1,0 +1,228 @@
+<application>
+  <component name="RiderPerAppToolWindowLayoutV2"><![CDATA[{
+  "layouts": {
+    "Custom": {
+      "v2": [
+        {
+          "id": "Project",
+          "order": 0,
+          "contentUiType": "COMBO",
+          "isActiveOnStart": true,
+          "isVisible": true,
+          "weight": 0.3650235,
+          "sideWeight": 0.5003754
+        },
+        {
+          "id": "Structure",
+          "order": 1,
+          "weight": 0.25,
+          "isSplit": true
+        },
+        {
+          "id": "Welcome to SonarQube for IDE",
+          "order": 2,
+          "weight": 0.3298828
+        },
+        {
+          "id": "Assembly Explorer",
+          "order": 3,
+          "weight": 0.34003907,
+          "sideWeight": 0.4996246,
+          "isSplit": true
+        },
+        {
+          "id": "aws.toolkit.explorer",
+          "order": 4,
+          "weight": 0.18261719,
+          "isSplit": true
+        },
+        {
+          "id": "Version Control",
+          "order": 0,
+          "anchor": "BOTTOM",
+          "weight": 0.20624104
+        },
+        {
+          "id": "Problems",
+          "order": 1,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Problems View",
+          "order": 2,
+          "anchor": "BOTTOM",
+          "weight": 0.10456817
+        },
+        {
+          "id": "Terminal",
+          "order": 3,
+          "anchor": "BOTTOM",
+          "weight": 0.15984195
+        },
+        {
+          "id": "Services",
+          "order": 4,
+          "anchor": "BOTTOM",
+          "weight": 0.23168103
+        },
+        {
+          "id": "SonarQube for IDE",
+          "order": 5,
+          "anchor": "BOTTOM",
+          "weight": 0.1299342
+        },
+        {
+          "id": "GitHub Copilot MCP Log",
+          "order": 6,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Build",
+          "order": 7,
+          "anchor": "BOTTOM",
+          "isVisible": true,
+          "weight": 0.20521057
+        },
+        {
+          "id": "Debug",
+          "order": 8,
+          "anchor": "BOTTOM",
+          "isVisible": true,
+          "weight": 0.25251436
+        },
+        {
+          "id": "Unit Tests",
+          "order": 9,
+          "anchor": "BOTTOM",
+          "weight": 0.06102784
+        },
+        {
+          "id": "NuGet",
+          "order": 10,
+          "anchor": "BOTTOM",
+          "weight": 0.3965025
+        },
+        {
+          "id": "Stacktrace",
+          "order": 11,
+          "anchor": "BOTTOM",
+          "weight": 0.15984195
+        },
+        {
+          "id": "Refactoring - Change signature",
+          "order": 12,
+          "anchor": "BOTTOM",
+          "weight": 0.17277299
+        },
+        {
+          "id": "Run",
+          "order": 13,
+          "anchor": "BOTTOM",
+          "weight": 0.11817528
+        },
+        {
+          "id": "Find",
+          "order": 14,
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false,
+          "weight": 0.3301006
+        },
+        {
+          "id": "KafkaToolWindow",
+          "order": 15,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Commit",
+          "order": 0,
+          "anchor": "RIGHT",
+          "weight": 0.18691406
+        },
+        {
+          "id": "Notifications",
+          "order": 1,
+          "anchor": "RIGHT",
+          "weight": 0.2740234
+        },
+        {
+          "id": "AIAssistant",
+          "order": 2,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        },
+        {
+          "id": "Database",
+          "order": 3,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        },
+        {
+          "id": "Gradle",
+          "order": 4,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        },
+        {
+          "id": "Maven",
+          "order": 5,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        },
+        {
+          "id": "TODO Manager",
+          "order": 6,
+          "anchor": "RIGHT",
+          "isSplit": true
+        },
+        {
+          "id": "github.copilotToolWindow",
+          "order": 7,
+          "anchor": "RIGHT"
+        },
+        {
+          "id": "GitHub Copilot Chat",
+          "order": 8,
+          "anchor": "RIGHT",
+          "weight": 0.56298906
+        },
+        {
+          "id": "Monitoring",
+          "order": 9,
+          "anchor": "RIGHT",
+          "weight": 0.3298828
+        },
+        {
+          "id": "dotCoverToolWindow",
+          "order": 10,
+          "anchor": "RIGHT",
+          "weight": 0.21855469
+        },
+        {
+          "id": "GitHub Coding Agent Jobs",
+          "order": 11,
+          "anchor": "RIGHT"
+        },
+        {
+          "id": "Endpoints",
+          "order": 12,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        },
+        {
+          "id": "Coverage",
+          "order": 13,
+          "anchor": "RIGHT",
+          "weight": 0.24394532,
+          "isSplit": true
+        }
+      ],
+      "unifiedWeights": {
+        "top": 0.33,
+        "left": 0.3650235,
+        "bottom": 0.20521057,
+        "right": 0.56298906
+      }
+    }
+  }
+}]]></component>
+</application>

@@ -1,0 +1,3 @@
+//192.168.0.17/Media /mnt/Media cifs credentials=/home/joep/.smbcredentials,uid=1000,gid=1000 0 0
+//192.168.0.17/Personal /mnt/Personal cifs credentials=/home/joep/.smbcredentials,uid=1000,gid=1000 0 0
+//192.168.0.17/Repos /mnt/Repos cifs credentials=/home/joep/.smbcredentials,uid=1000,gid=1000 0 0

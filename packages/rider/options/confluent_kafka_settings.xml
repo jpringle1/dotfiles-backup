@@ -1,0 +1,5 @@
+<application>
+  <component name="ConfluentIntellijKafkaGlobalSettings">
+    <option name="migrationNotificationShown" value="true" />
+  </component>
+</application>

@@ -1,0 +1,19 @@
+set completion-ignore-case on
+set show-all-if-ambiguous on
+set show-all-if-unmodified on
+# set menu-complete-display-prefix on ## i dont really know what this does
+set skip-completed-text on
+set visible-stats on
+set colored-completion-prefix on
+set colored-stats on
+"\t": menu-complete
+"\e[Z": menu-complete-backward
+
+# search history via prefix instaed of cycling everything
+"\e[A": history-search-backward
+"\e[B": history-search-forward
+
+"\C-r": reverse-search-history
+"\C-s": forward-search-history
+
+"\e[3;5~": kill-word
