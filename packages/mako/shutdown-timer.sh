@@ -1,12 +1,16 @@
 #!/bin/bash
 
-notify-send -c "go-to-sleep" "Bed time in 15 minutes" "Network cuts at 9:30"
+notify-send -c "go-to-sleep" "Bed time in 15 minutes"
 
 sleep 600  # 10 minutes
 
-notify-send -c "go-to-sleep" "Bed time in 5 minutes" "Wrap up what you're doing"
+notify-send -c "go-to-sleep" "Bed time in 5 minutes"
 
-sleep 290  # 4 minutes 50 seconds
+sleep 240  # 4 minutes
+
+notify-send -c "go-to-sleep" "Bed time in 1 minute"
+
+sleep 50  # 50 seconds
 
 # countdown
 for i in $(seq 10 -1 1); do
@@ -15,5 +19,3 @@ for i in $(seq 10 -1 1); do
 done
 
 notify-send -c "go-to-sleep" -t 0 "Shutting down"
-
-shutdown now
