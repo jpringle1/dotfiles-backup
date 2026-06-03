@@ -2,54 +2,57 @@
 -- All plugin sources. vim.pack.add() is called once here.
 -- To add a plugin: append an entry and restart Neovim.
 
-vim.pack.add({
+local gh = "https://github.com/"
 
+vim.pack.add({
   -- UI / colour
-  { src = "https://github.com/catppuccin/nvim",         name = "catppuccin" },
-  { src = "https://github.com/nvim-mini/mini.icons" },
-  { src = "https://github.com/nvim-tree/nvim-web-devicons" },
-  { src = "https://github.com/akinsho/bufferline.nvim" },
-  { src = "https://github.com/nvim-lualine/lualine.nvim" },
-  { src = "https://github.com/sphamba/smear-cursor.nvim" },
+  {
+	  src = gh .. "catppuccin/nvim",
+	  name = "catppuccin"
+  },
+  { src = gh .. "nvim-mini/mini.icons" },
+  { src = gh .. "nvim-tree/nvim-web-devicons" },
+  { src = gh .. "akinsho/bufferline.nvim" },
+  { src = gh .. "nvim-lualine/lualine.nvim" },
+  { src = gh .. "sphamba/smear-cursor.nvim" },
 
   -- Editor behaviour
-  { src = "https://github.com/nvim-treesitter/nvim-treesitter" },
-  { src = "https://github.com/folke/which-key.nvim" },
-  { src = "https://github.com/kylechui/nvim-surround" },
-  { src = "https://github.com/hiphish/rainbow-delimiters.nvim" },
-  { src = "https://github.com/simnalamburt/vim-mundo" },
-  { src = "https://github.com/MeanderingProgrammer/render-markdown.nvim" },
+  { src = gh .. "nvim-treesitter/nvim-treesitter" },
+  { src = gh .. "folke/which-key.nvim" },
+  { src = gh .. "kylechui/nvim-surround" },
+  { src = gh .. "hiphish/rainbow-delimiters.nvim" },
+  { src = gh .. "simnalamburt/vim-mundo" },
+  { src = gh .. "MeanderingProgrammer/render-markdown.nvim" },
 
   -- Git
-  { src = "https://github.com/tpope/vim-fugitive" },
-  { src = "https://github.com/junegunn/vim-peekaboo" },
+  { src = gh .. "tpope/vim-fugitive" },
+  { src = gh .. "junegunn/vim-peekaboo" },
 
   -- File navigation
-  { src = "https://github.com/mikavilpas/yazi.nvim" },
-  { src = "https://github.com/nvim-lua/plenary.nvim" },
-  { src = "https://github.com/nvim-telescope/telescope.nvim" },
-  { src = "https://github.com/nvim-telescope/telescope-fzf-native.nvim" },
+  { src = gh .. "mikavilpas/yazi.nvim" },
+  { src = gh .. "nvim-lua/plenary.nvim" },
+  { src = gh .. "nvim-telescope/telescope.nvim" },
+  { src = gh .. "nvim-telescope/telescope-fzf-native.nvim" },
 
   -- LSP
-  { src = "https://github.com/neovim/nvim-lspconfig" },
-  { src = "https://github.com/mason-org/mason.nvim" },
-  { src = "https://github.com/mason-org/mason-lspconfig.nvim" },
-  { src = "https://github.com/WhoIsSethDaniel/mason-tool-installer.nvim" },
+  { src = gh .. "neovim/nvim-lspconfig" },
+  { src = gh .. "mason-org/mason.nvim" },
+  { src = gh .. "mason-org/mason-lspconfig.nvim" },
+  { src = gh .. "WhoIsSethDaniel/mason-tool-installer.nvim" },
 
   -- Completion
-  { src = "https://github.com/hrsh7th/nvim-cmp" },
-  { src = "https://github.com/hrsh7th/cmp-nvim-lsp" },
-  { src = "https://github.com/hrsh7th/cmp-buffer" },
-  { src = "https://github.com/hrsh7th/cmp-path" },
+  { src = gh .. "hrsh7th/nvim-cmp" },
+  { src = gh .. "hrsh7th/cmp-nvim-lsp" },
+  { src = gh .. "hrsh7th/cmp-buffer" },
+  { src = gh .. "hrsh7th/cmp-path" },
 
   -- Debugging (DAP)
-  { src = "https://github.com/mfussenegger/nvim-dap" },
-  { src = "https://github.com/nvim-neotest/nvim-nio" },
-  { src = "https://github.com/rcarriga/nvim-dap-ui" },
-  { src = "https://github.com/theHamsta/nvim-dap-virtual-text" },
+  { src = gh .. "mfussenegger/nvim-dap" },
+  { src = gh .. "nvim-neotest/nvim-nio" },
+  { src = gh .. "rcarriga/nvim-dap-ui" },
+  { src = gh .. "theHamsta/nvim-dap-virtual-text" },
 
-
-	-- { src = 'https://github.com/lambdalisue/vim-suda' }
-  -- { src = "https://github.com/hedyhli/outline.nvim" }, -- Document symbol windows. TODO: not working, fix or use navbuddy
-  -- { src = "https://github.com/SmiteshP/nvim-navbuddy" }, -- Document symbol windows. TODO: not finished setup. setup or figure out outline
+  -- { src = gh .. "lambdalisue/vim-suda" }
+  -- { src = gh .. "hedyhli/outline.nvim" }, -- Document symbol windows. TODO: not working, fix or use navbuddy
+  -- { src = gh .. "SmiteshP/nvim-navbuddy" }, -- Document symbol windows. TODO: not finished setup. setup or figure out outline
 })
