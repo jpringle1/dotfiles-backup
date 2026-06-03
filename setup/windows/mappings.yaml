@@ -10,5 +10,5 @@ powertoys: '~/appdata/local/microsoft/PowerToys'
 # vscode: ''
 windows-terminal:
   terminal.json: '~/appdata/local/Packages/Microsoft.WindowsTerminal_8wekyb3d8bbwe/LocalState/settings.json'
-yazi: '~/appdata/roaming/yazi'
+yazi: '~/appdata/roaming/config/yazi'
 
