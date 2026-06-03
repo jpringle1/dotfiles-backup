@@ -101,6 +101,8 @@ vim.pack.add({
   { src = "https://github.com/nvim-telescope/telescope-fzf-native.nvim" },
   { src = "https://github.com/nvim-tree/nvim-web-devicons" },
   { src = "https://github.com/akinsho/bufferline.nvim" },
+  { src = "https://github.com/nvim-lualine/lualine.nvim" },
+
   --- CMP (completions)
   { src = "https://github.com/hrsh7th/nvim-cmp" },
   { src = "https://github.com/hrsh7th/cmp-nvim-lsp" },
@@ -375,6 +377,23 @@ vim.api.nvim_create_autocmd("FileType", {
 })
 
 vim.keymap.set('n', 'gb', '<cmd>BufferLinePick<CR>')
+
+require('lualine').setup {
+  sections = {
+    lualine_b = {
+      {
+        'branch',
+        fmt = function(str)
+          -- get branch for current buffer's directory
+          local buf_dir = vim.fn.expand('%:p:h')
+          local branch = vim.fn.systemlist('git -C ' .. buf_dir .. ' branch --show-current')[1]
+          return branch or str
+        end
+      },
+      'diff', 'diagnostics'
+    },
+  }
+}
 
 -- telescope setup
 local builtin = require('telescope.builtin')
