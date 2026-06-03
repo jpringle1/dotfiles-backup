@@ -19,5 +19,3 @@ for i in $(seq 10 -1 1); do
 done
 
 notify-send -c "go-to-sleep" -t 0 "Shutting down"
-
-shutdown now
