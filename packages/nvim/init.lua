@@ -118,10 +118,16 @@ vim.pack.add({
   { src = "https://github.com/nvim-neotest/nvim-nio"},
   { src = "https://github.com/rcarriga/nvim-dap-ui"},
   { src = "https://github.com/theHamsta/nvim-dap-virtual-text"},
+  { src = "https://github.com/sphamba/smear-cursor.nvim"},
+
   ---
 	-- { src = 'https://github.com/lambdalisue/vim-suda' }
   -- { src = "https://github.com/hedyhli/outline.nvim" }, -- Document symbol windows. TODO: not working, fix or use navbuddy
   -- { src = "https://github.com/SmiteshP/nvim-navbuddy" }, -- Document symbol windows. TODO: not finished setup. setup or figure out outline
+})
+
+require('smear_cursor').setup({
+  -- Your options
 })
 
 vim.opt.termguicolors = true
@@ -259,6 +265,7 @@ cmp.setup({
 
 require('render-markdown').setup({
     completions = { lsp = { enabled = true } },
+    pipe_table = { preset = 'round' },
 })
 -- [[CMP setup end]]
 
@@ -272,9 +279,6 @@ vim.keymap.set("n", "<leader>e", function()
 end, { desc = "Open Yazi file manager" })
 
 require('mini.icons').setup()
-require('render-markdown').setup({
-    pipe_table = { preset = 'round' },
-})
 
 vim.cmd('packadd! catppuccin')
 vim.cmd.colorscheme("catppuccin-frappe")
