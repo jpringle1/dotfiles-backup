@@ -25,3 +25,5 @@ require('yazi').setup({
 vim.keymap.set('n', '<leader>e', function()
   require('yazi').yazi()
 end, { desc = 'Open Yazi file manager' })
+
+vim.keymap.set('n', '<leader>gg', '<cmd>LazyGit<CR>', { silent = true })
