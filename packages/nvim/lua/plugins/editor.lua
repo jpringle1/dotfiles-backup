@@ -15,7 +15,7 @@ require('nvim-surround').setup({})
 require('which-key').setup({})
 
 -- Smear cursor
-require('smear_cursor').setup({})
+-- require('smear_cursor').setup({})
 
 -- Yazi file manager
 require('yazi').setup({
