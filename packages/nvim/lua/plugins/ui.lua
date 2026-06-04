@@ -3,6 +3,7 @@ require('mini.icons').setup()
 vim.cmd('packadd! catppuccin')
 vim.cmd.colorscheme("catppuccin-frappe")
 
+require('colorizer').setup()
 require('lualine').setup {
   sections = {
     lualine_b = {
@@ -67,3 +68,4 @@ require("bufferline").setup {
 
 
 vim.keymap.set('n', 'gb', '<cmd>BufferLinePick<CR>')
+
