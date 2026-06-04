@@ -1,12 +1,29 @@
 -- telescope setup
 require('telescope').setup({
   defaults = {
-    layout_strategy = 'horizontal',  -- or 'vertical'
+    layout_strategy = "flex",
+    sorting_strategy = "ascending",  -- top level in defaults, not in layout_config
     layout_config = {
       prompt_position = "top",
+      flex = {
+        flip_columns = 120,
+      },
+      horizontal = {
+        preview_width = 0.55,
+      },
+      vertical = {
+        preview_height = 0.4,
+	mirror = true
+      },
     },
-    sorting_strategy = "ascending",  -- so results flow downward from the prompt
   },
+})
+
+vim.api.nvim_create_autocmd("User", { -- enable word wrap in previewer
+  pattern = "TelescopePreviewerLoaded",
+  callback = function()
+    vim.wo.wrap = true
+  end,
 })
 
 local builtin = require('telescope.builtin')
