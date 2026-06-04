@@ -6,7 +6,7 @@ require('telescope').setup({
     layout_config = {
       prompt_position = "top",
       flex = {
-        flip_columns = 120,
+        flip_columns = 125,
       },
       horizontal = {
         preview_width = 0.55,

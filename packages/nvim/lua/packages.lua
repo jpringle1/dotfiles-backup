@@ -55,6 +55,7 @@ vim.pack.add({
   -- Misc
   { src = gh .. "norcalli/nvim-colorizer.lua" },
   { src = gh .. "kdheepak/lazygit.nvim" },
+  { src = gh .. "dstein64/vim-startuptime" },
 
   -- { src = gh .. "lambdalisue/vim-suda" }
   -- { src = gh .. "hedyhli/outline.nvim" }, -- Document symbol windows. TODO: not working, fix or use navbuddy
