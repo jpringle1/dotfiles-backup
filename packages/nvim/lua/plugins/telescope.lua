@@ -1,4 +1,14 @@
 -- telescope setup
+require('telescope').setup({
+  defaults = {
+    layout_strategy = 'horizontal',  -- or 'vertical'
+    layout_config = {
+      prompt_position = "top",
+    },
+    sorting_strategy = "ascending",  -- so results flow downward from the prompt
+  },
+})
+
 local builtin = require('telescope.builtin')
 vim.keymap.set('n', '<leader>ff', builtin.find_files, { desc = 'Telescope find files' })
 vim.keymap.set('n', '<leader>fg', builtin.live_grep, { desc = 'Telescope live grep' })
