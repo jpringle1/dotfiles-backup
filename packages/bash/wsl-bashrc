@@ -27,3 +27,5 @@ unset rc
 PS1='\[\e[32m\]\u@\h\[\e[0m\]:\[\e[34m\]\W\[\e[0m\]\$ '
 
 cd $HOME
+
+eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv bash)"
