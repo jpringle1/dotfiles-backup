@@ -16,7 +16,7 @@ add_sudo_cron_if_missing() {
 }
 
 # bedtime_netoff="30 21 * * * nmcli networking off"
-bedtime_shutdown_timer="00 21 * * * $script_dir/cron.sh"
+bedtime_shutdown_timer="00 21 * * * $script_dir/shutdown_timer.sh"
 bedtime_shutdown="15 21 * * * /usr/sbin/shutdown now"
 
 add_cron_if_missing "$bedtime_shutdown_timer"

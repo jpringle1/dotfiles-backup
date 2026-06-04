@@ -1,2 +1,18 @@
+# Colors
+
+background-color=#303446
+text-color=#c6d0f5
+border-color=#ca9ee6
+progress-color=over #414559
+border-radius=5
+icon-border-radius=5
+
+[urgency=high]
+border-color=#ef9f76
+
 [category="go-to-sleep"]
 anchor=center
+font=monospace 30
+width=500
+height=300
+text-alignment=center
