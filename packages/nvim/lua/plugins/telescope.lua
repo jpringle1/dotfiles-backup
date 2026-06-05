@@ -19,6 +19,8 @@ require('telescope').setup({
   },
 })
 
+require('telescope').load_extension('projects')
+
 vim.api.nvim_create_autocmd("User", { -- enable word wrap in previewer
   pattern = "TelescopePreviewerLoaded",
   callback = function()
@@ -43,4 +45,5 @@ vim.keymap.set('n', '<leader>flci', builtin.lsp_incoming_calls, { desc = 'Telesc
 vim.keymap.set('n', '<leader>flco', builtin.lsp_outgoing_calls, { desc = 'Telescope outgoing calls' })
 vim.keymap.set('n', '<leader>fls', builtin.lsp_document_symbols, { desc = 'Telescope symbols' })
 vim.keymap.set('n', '<leader>fltd', builtin.lsp_type_definitions, { desc = 'Telescope type definitions' })
+vim.keymap.set('n', '<leader>fp',  "<cmd>Telescope projects<cr>", { desc = 'Telescope projects' })
 -- vim.keymap.set('n', '<leader>fs', builtin.spell_suggest, { desc = 'Telescope spell suggest' })
