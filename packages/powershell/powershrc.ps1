@@ -117,3 +117,7 @@ function lst {
 
     & lsd --tree --depth $depth @paths
 }
+
+function docker-up {
+	docker-compose -f docker-compose.localdev.yaml up --build --force-recreate
+}
