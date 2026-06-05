@@ -32,3 +32,8 @@ require("project").setup()
 require("persistence").setup({
   need = 0,
 })
+
+require("gitsigns").setup({
+	linehl = true,
+	numhl = true
+})

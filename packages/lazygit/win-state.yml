@@ -1,6 +1,7 @@
 lastupdatecheck: 0
 recentrepos:
     - C:\src\dotfiles
+    - C:\repos\personal\find-connection-strings
     - C:\repos\jet2\Holidays.Excursions
     - C:\repos\personal\symlinker-go
     - C:\repos\jet2\ExternalSMSOptInUploader
@@ -13,6 +14,7 @@ startuppopupversion: 5
 didshowhunkstaginghint: true
 lastversion: 0.61.1
 customcommandshistory:
+    - q
     - w
 hidecommandlog: false
 githubPullRequests: {}
