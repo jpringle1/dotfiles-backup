@@ -1,6 +1,6 @@
 
 [Environment]::SetEnvironmentVariable(
   "YAZI_FILE_ONE",
-  "C:/src/dotfiles/packages/yazi/git_file.exe",
+  "C:\Users\joe.pringle\AppData\Local\Programs\Git\usr\bin\file.exe",
   "User"
 )
