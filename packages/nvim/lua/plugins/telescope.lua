@@ -19,6 +19,32 @@ require('telescope').setup({
   },
 })
 
+-- [[normalise backslash to forwardslash (for windows)]]
+
+local make_entry = require("telescope.make_entry")
+local original = make_entry.gen_from_file
+
+make_entry.gen_from_file = function(opts)
+  local entry_maker = original(opts)
+  return function(line)
+    local entry = entry_maker(line)
+    if entry then
+      entry.ordinal = entry.ordinal:gsub("\\", "/")
+      local original_display = entry.display
+      if type(original_display) == "function" then
+        entry.display = function(e)
+          local display_str, highlights = original_display(e)
+          return display_str:gsub("\\", "/"), highlights
+        end
+      elseif type(original_display) == "string" then
+        entry.display = original_display:gsub("\\", "/")
+      end
+    end
+    return entry
+  end
+end
+-- [[ end backslash normalisation ]]
+
 require('telescope').load_extension('projects')
 
 vim.api.nvim_create_autocmd("User", { -- enable word wrap in previewer
