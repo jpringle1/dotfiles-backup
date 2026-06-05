@@ -57,6 +57,7 @@ vim.pack.add({
   { src = gh .. "kdheepak/lazygit.nvim" },
   { src = gh .. "dstein64/vim-startuptime" },
   { src = gh .. "DrKJeff16/project.nvim" },
+  { src = gh .. "folke/persistence.nvim" },
   -- { src = gh .. "lambdalisue/vim-suda" }
   -- { src = gh .. "hedyhli/outline.nvim" }, -- Document symbol windows. TODO: not working, fix or use navbuddy
   -- { src = gh .. "SmiteshP/nvim-navbuddy" }, -- Document symbol windows. TODO: not finished setup. setup or figure out outline

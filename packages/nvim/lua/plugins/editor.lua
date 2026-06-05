@@ -29,3 +29,6 @@ end, { desc = 'Open Yazi file manager' })
 vim.keymap.set('n', '<leader>gg', '<cmd>LazyGit<CR>', { silent = true })
 
 require("project").setup()
+require("persistence").setup({
+  need = 0,
+})
