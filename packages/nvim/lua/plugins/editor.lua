@@ -1,5 +1,4 @@
 -- lua/plugins/editor.lua
--- Treesitter, surround, which-key, yazi, smear-cursor, rainbow-delimiters
 
 -- Treesitter: auto-enable for every filetype
 vim.api.nvim_create_autocmd("FileType", {
@@ -35,5 +34,10 @@ require("persistence").setup({
 
 require("gitsigns").setup({
 	linehl = true,
-	numhl = true
+	numhl = true,
+	-- word_diff = true
 })
+
+vim.keymap.set("n", "<leader>hP", function()
+  require("gitsigns").preview_hunk_inline()
+end)
