@@ -73,3 +73,15 @@ vim.keymap.set('n', '<leader>fls', builtin.lsp_document_symbols, { desc = 'Teles
 vim.keymap.set('n', '<leader>fltd', builtin.lsp_type_definitions, { desc = 'Telescope type definitions' })
 vim.keymap.set('n', '<leader>fp',  "<cmd>Telescope projects<cr>", { desc = 'Telescope projects' })
 -- vim.keymap.set('n', '<leader>fs', builtin.spell_suggest, { desc = 'Telescope spell suggest' })
+
+local harpoon = require("harpoon")
+
+harpoon:setup()
+
+vim.keymap.set("n", "<leader>a", function() harpoon:list():add() end)
+vim.keymap.set("n", "<C-e>", function() harpoon.ui:toggle_quick_menu(harpoon:list()) end)
+
+vim.keymap.set("n", "<leader>ha", function() harpoon:list():select(1) end)
+vim.keymap.set("n", "<leader>hs", function() harpoon:list():select(2) end)
+vim.keymap.set("n", "<leader>hd", function() harpoon:list():select(3) end)
+vim.keymap.set("n", "<leader>hf", function() harpoon:list():select(4) end)

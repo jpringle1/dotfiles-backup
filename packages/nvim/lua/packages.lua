@@ -12,7 +12,6 @@ vim.pack.add({
   },
   { src = gh .. "nvim-mini/mini.icons" },
   { src = gh .. "nvim-tree/nvim-web-devicons" },
-  { src = gh .. "akinsho/bufferline.nvim" },
   { src = gh .. "nvim-lualine/lualine.nvim" },
   { src = gh .. "sphamba/smear-cursor.nvim" },
 
@@ -59,6 +58,10 @@ vim.pack.add({
   { src = gh .. "DrKJeff16/project.nvim" },
   { src = gh .. "folke/persistence.nvim" },
   { src = gh .. "lewis6991/gitsigns.nvim" },
+  {
+	  src = gh .. "ThePrimeagen/harpoon",
+	  version = "harpoon2"
+  },
   -- { src = gh .. "lambdalisue/vim-suda" }
   -- { src = gh .. "hedyhli/outline.nvim" }, -- Document symbol windows. TODO: not working, fix or use navbuddy
   -- { src = gh .. "SmiteshP/nvim-navbuddy" }, -- Document symbol windows. TODO: not finished setup. setup or figure out outline
