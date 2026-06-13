@@ -1,7 +1,7 @@
 input * { xkb_layout gb }
 output * bg ~/.config/sway/wallpapers/wallpaper-sway.png fill
 output DP-3 scale 1.5
-font pango:JetBrains Mono 11
+font pango:JetBrainsMono Nerd Font 11
 #######
 include ~/.config/sway/colourscheme.conf
 include ~/.config/sway/keyboard.conf
