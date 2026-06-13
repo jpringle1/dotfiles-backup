@@ -1,0 +1,41 @@
+@import "config"
+
+window {
+  width:  20%;
+  height: 40%;
+}
+
+textbox {
+  vertical-align:   0.5;
+  horizontal-align: 0.5;
+}
+
+listview {
+  columns:       9;
+  lines:         7;
+  cycle:         true;
+  dynamic:       true;
+  layout:        vertical;
+  flow:          horizontal;
+  reverse:       false;
+  fixed-height:  true;
+  fixed-columns: true;
+}
+
+element {
+  orientation: vertical;
+  padding:     4px;
+  spacing:     0px;
+}
+
+element-icon {
+  size: 0px;
+}
+
+element-text {
+  vertical-align:   0.5;
+  horizontal-align: 0.5;
+  font:    "JetBrainsMono Nerd Font 24";
+  padding: 0px;
+  margin:  0px;
+}
