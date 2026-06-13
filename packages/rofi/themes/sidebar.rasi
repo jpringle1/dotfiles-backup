@@ -1,0 +1,39 @@
+@import "~/.config/rofi/themes/catppuccin-default.rasi"
+
+window {
+    location:      east;
+    anchor:        east;
+    width:         700px;
+    height:        100%;
+    border-radius: 12px 0px 0px 12px;
+    border:        2px 0px 2px 2px;
+    border-color:  @mauve;
+}
+
+mainbox {
+    padding: 12px;
+}
+
+inputbar {
+    padding:    8px 12px;
+    margin:     0px 0px 8px 0px;
+    border:     0px 0px 2px 0px;
+    border-color: @mauve;
+}
+
+listview {
+    lines:       25;
+    fixed-height: true;
+    scrollbar:   true;
+    spacing:     4px;
+    padding:     4px 0px;
+}
+
+element {
+    padding:     6px 8px;
+    border-radius: 6px;
+}
+
+prompt {
+    str: "";
+}
