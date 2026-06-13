@@ -19,16 +19,19 @@ copy_field() {
     local field="$1"
     local vault="${ROFI_INFO%%/*}"
     local item_id="${ROFI_INFO#*/}"
-    pass-cli item view \
+    local value
+    value=$(pass-cli item view \
         --vault-name "$vault" \
         --item-id "$item_id" \
         --field "$field" 2>/dev/null \
-    | tr -d '\n' \
-    | wl-copy
+        | tr -d '\n')
+    notify-send "pass-debug" "vault='$vault' len=${#value}"
+    printf '%s' "$value" | setsid wl-copy
+    notify-send "pass-debug" "wl-copy exit=$?"
 }
 
 case "${ROFI_RETV:-0}" in
     0) list_items ;;
-    1) copy_field password ;;
+    1) printenv > /tmp/rofi-env.txt; copy_field password ;;
     10) copy_field username ;;
 esac
