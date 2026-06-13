@@ -1,44 +1,10 @@
 /* Main Config 1440p */
-@import "~/.config/rofi/master-config.rasi" 
-@theme "~/.config/rofi/colours/catppuccin-frappe-mauve.rasi"
+@import "~/.config/rofi/master-config.rasi"
 
 /* ---- Configuration ---- */
 configuration {
-	display-combi: "Apps ❯";
-	font:	"JetBrains Mono SemiBold 17";
-}
-/* ---- Window ---- */
-window {
-    width:	20%;
-}
-
-/* ---- Entry input ---- */
-entry {
-    width:	18%;
-    font: "JetBrains Mono 17";
-}
-
-/* ---- Listview ---- */
-listview {
-    lines:	8;
-}
-
-/* ---- Mode Switcher ---- */
-button {
-    width:	110px;
-}
-
-element-text {
-    font:	"JetBrains Mono 17";
-}
-
-prompt {
-    enabled: true;
-    font: "JetBrains Mono 17";
-    text-color: @text-color;
-    background-color: transparent;
-}
-
-element-icon {
-    size: 25px;
+	display-combi:          "Apps ❯";
+modes:                  "combi,calc";
+	combi-modes:            "drun,run";
+	combi-hide-mode-prefix: true;
 }
